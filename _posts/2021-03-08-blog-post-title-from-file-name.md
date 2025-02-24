@@ -1,6 +1,8 @@
 ## Foundation, 2025-02-24
 
-Sample
+title "Hidden blog post"
+date: 2025-02-24
+hidden: true
 
 ---
 
