@@ -1,1 +1,1 @@
-<img src="/Images/IMG_0265.png" alt="Alt text" style="max-width:100%;">
+<img src="/images/IMG_0265.png" alt="Alt text" style="max-width:100%;">
