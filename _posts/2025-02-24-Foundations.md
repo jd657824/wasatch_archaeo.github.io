@@ -1,1 +1,1 @@
-![Alt text]({{ site.baseurl }}/IMG_0265.png)
+<img src="/Images/IMG_0265.png" alt="Alt text" style="max-width:100%;">
