@@ -51,7 +51,9 @@ A curated and evolving overview of key topics exploring human-environment relati
 - Explains how **microsystems, mesosystems, exosystems, and macrosystems** shape individual growth within an ecological context.
 - Emphasizes **process** (reciprocal interactions), **person** (individual characteristics), **context** (environmental layers), and **time** (temporal shifts) as interconnected factors.
 - Draws parallels to environmental anthropology, illustrating how social structures and personal experiences are nested within broader ecological and cultural systems.
+  
 ---
+
 ## 4. **Julian Steward and Karl Butzer**
 
 **Posted:** *TBA*
@@ -64,7 +66,9 @@ A curated and evolving overview of key topics exploring human-environment relati
 - Highlights environment-culture feedback loops and the importance of holistic, long-term perspectives.
 
 [**Read Full Post →**](#)
+
 ---
+
 ## 5. **Behavioral Ecology**
 
 **Posted:** *TBA*
