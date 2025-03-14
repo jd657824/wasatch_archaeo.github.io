@@ -4,7 +4,7 @@ A curated and evolving overview of key topics exploring human-environment relati
 
 **Ehtnobotanical Data Disclaimer**
 
-[**Read Full Post →**](.)
+[**Read Full Post →**](./2025-02-24-ethnobotanical-data-disclaimer.md)
 
 ---
 ## 1. **Two-Eyed Seeing**
