@@ -180,16 +180,3 @@ A curated and evolving overview of key topics exploring human-environment relati
 
 ---
 
-### **How to Navigate This Blog Index**
-
-1. **Foundational Starting Points of (my) Research**  
-   - For essential background on human-environment relationships and  theoretical insights, check out Posts #1 (Two-Eye Seeing), #2 (Cultural-Ecological Disconnect), #3 (Bronfenbrenner's Bioecological Model), #4 (Julian Steward & Karl Butzer), #5 (Behavioral Ecology), #5 (Optimal Foraging Theory), and #6 (Niche Construction Theory)
-
-2. **Physical Geography Deep Dives**  
-   - Explore Posts #8 (Climatic Stationarity), #9 (Topographic Regionalization) and #10 (Floral & Faunal Refugia) for more specialized concepts in ecological adaptation and resilience.
-
-3. **Regional Case Studies**  
-   - Posts #11, #12, and #10 offer in-depth looks at southwestern Wyoming, showing theory in action within a specific arid-montane setting.
-
-
-Use these entries as a comprehensive roadmap to understand how human societies adapt, modify, and sometimes overtax the landscapes they inhabit. Enjoy your reading journey—and may these articles spark fresh insights into the delicate dance between culture and ecology!
