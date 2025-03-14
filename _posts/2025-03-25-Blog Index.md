@@ -3,8 +3,8 @@
 A curated overview of key topics exploring human-environment relationships—from climatic stationarity to niche construction, from topographic regionalization to cultural ecological frameworks. Use this index as a gateway to dive deeper into each specialized post.
 
 ---
-## 1. **Two-Eyed Seeing**
-**Title:** *Integrating Indigenous and Western Knowledge Systems, Posted: 2-28-25*
+## 1. **Two-Eyed Seeing, Posted 2-28-25**
+**Title:** *Integrating Indigenous and Western Knowledge Systems*
 
 **Highlights:**
 - Presents the concept of _Etuaptmumk_ (“Two-Eyed Seeing”), introduced by Mi’kmaw Elder Albert Marshall, as a guiding framework.
