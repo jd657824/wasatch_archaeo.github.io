@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Two-Eye Seeing"
-permalink: /two-eye/
+title: "Blog Index"
+permalink: /blog-index/
 ---
 
 # **Blog Index:**
