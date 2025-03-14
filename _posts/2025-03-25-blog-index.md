@@ -1,9 +1,4 @@
----
-layout: post
-title: "Blog Index"
-date: 2025-02-28 12:00:00
-categories: [blog]
----
+
 
 # **Blog Index:**
 
