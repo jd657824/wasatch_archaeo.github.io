@@ -4,7 +4,7 @@ A curated overview of key topics exploring human-environment relationships—fro
 
 ---
 ## 1. **Two-Eyed Seeing**
-**Title:** *Integrating Indigenous and Western Knowledge Systems*
+**Title:** *Integrating Indigenous and Western Knowledge Systems, Posted: 2-28-25*
 
 **Highlights:**
 - Presents the concept of _Etuaptmumk_ (“Two-Eyed Seeing”), introduced by Mi’kmaw Elder Albert Marshall, as a guiding framework.
