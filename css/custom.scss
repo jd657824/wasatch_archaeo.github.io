@@ -3,6 +3,28 @@
 
 @import "minima"; // Keeps Minima’s base styles
 
+// 🌟 Change the Font
+$body-font: 'Merriweather', serif; // Change to your preferred font
+
+// Apply font globally
+body {
+  font-family: $body-font;
+  font-size: 18px; // Adjust for readability
+  line-height: 1.6;
+}
+
+// Adjust Headers for Contrast
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Merriweather', serif; // Match body or use another
+  font-weight: 700;
+}
+
+// Adjust Footer for Readability
+.site-footer {
+  font-family: 'Merriweather', serif;
+  font-size: 16px;
+}
+
 // 🌑 PROFESSIONAL GRAYSCALE FOOTER COLORS
 $footer-background: #2E2E2E;  // Dark Gray (Sleek, modern)
 $footer-text: #F8F8F8; // Soft White (Maximum readability)
