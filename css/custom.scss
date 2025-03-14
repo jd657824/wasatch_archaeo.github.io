@@ -3,12 +3,12 @@
 
 @import "minima"; // Keeps Minima’s base styles
 
-// 🌿 REFINED PROFESSIONAL FOOTER COLORS
-$footer-background: #1C1C1E;  // Deep charcoal (Sleek & modern)
-$footer-text: #FDFDFD; // True white (Crisp readability)
-$footer-link: #5085A5; // Desaturated blue (Professional accent)
-$footer-icon: #A66C24; // Deep bronze (Refined contrast)
-$footer-heading: #E5E5E5; // Soft white-gray (Elegant distinction)
+// 🌑 PROFESSIONAL GRAYSCALE FOOTER COLORS
+$footer-background: #2E2E2E;  // Dark Gray (Sleek, modern)
+$footer-text: #F8F8F8; // Soft White (Maximum readability)
+$footer-link: #A6A6A6; // Medium Gray (Subtle but visible)
+$footer-icon: #8C8C8C; // Light Gray (Distinguishable but soft)
+$footer-heading: #D1D1D1; // Light Gray (Clear but not overpowering)
 
 // Apply footer styles
 .site-footer {
