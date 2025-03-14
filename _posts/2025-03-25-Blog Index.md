@@ -6,6 +6,7 @@ A curated overview of key topics exploring human-environment relationships—fro
 ## 1. **Two-Eyed Seeing**
 
 **Posted:** *2-25-25*
+
 **Title:** *Integrating Indigenous and Western Knowledge Systems*
 
 **Highlights:**
