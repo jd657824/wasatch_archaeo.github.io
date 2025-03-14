@@ -35,6 +35,9 @@ titles_from_headings:
 # This line ensures your posts use /YYYY/MM/DD/title/ URLs:
 permalink: /:year/:month/:day/:title/
 
+# Add this line to remove top nav pages in Minima
+header_pages: []
+
 defaults:
   - scope:
       path: ""
