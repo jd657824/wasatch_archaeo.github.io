@@ -3,13 +3,13 @@
 
 @import "minima"; // Keeps Minima’s base styles
 
-// 🌿 HIGH-CONTRAST EARTHY COLOR SCHEME
-$background-color: #FAF3E0;  // Light cream (Better readability)
-$text-color: #2B1D15;  // Very dark brown (Near black for best contrast)
-$heading-color: #26190E; // Espresso brown (Strongest contrast on cream)
-$link-color: #D45A1C; // Bold terracotta (Easier to see)
-$footer-background: #2A3A24; // Dark forest green (More depth)
-$footer-text: #FDF7E3; // Near white (Best visibility on dark green)
+// 🌿 Improved Earthy Color Theme with Better Contrast
+$background-color: #F2E6D0;  // Light sand
+$text-color: #3E2F24;  // Deep brown (better contrast)
+$heading-color: #4D3327; // Warm brown
+$link-color: #B74F26; // Burnt sienna (better visibility)
+$footer-background: #3E4C36; // Deep forest green
+$footer-text: #F5E6CC; // Soft cream
 
 // Apply colors
 body {
@@ -18,32 +18,23 @@ body {
   font-family: "Georgia", serif;
 }
 
-// Headings (Make them stronger)
+// Headings
 h1, h2, h3, h4, h5, h6 {
   color: $heading-color;
-  font-weight: bold;
 }
 
-// Links (Make them stand out)
+// Links
 a {
   color: $link-color;
-  font-weight: bold;
   &:hover {
-    color: darken($link-color, 15%);
-    text-decoration: underline;
+    color: darken($link-color, 10%);
   }
 }
 
-// Footer (Stronger contrast for text)
+// Footer
 .site-footer {
   background-color: $footer-background;
   color: $footer-text;
   padding: 1rem;
   text-align: center;
-  font-weight: bold;
-}
-
-// Extra readability improvements
-p {
-  line-height: 1.6;
 }
