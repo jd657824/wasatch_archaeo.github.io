@@ -9,7 +9,7 @@ permalink: /blog-index/
 
 A curated and evolving overview of key topics exploring human-environment relationships—from climatic stationarity to niche construction, from topographic regionalization to cultural ecological frameworks. Use this index as a gateway to dive deeper into each specialized post.
 
-**Ehtnobotanical Data Disclaimer:** [**Read Full Post →**](./2025-02-24-ethnobotanical-disclaimer.md)
+**Ehtnobotanical Data Disclaimer:** [**Read Full Post →**](/2025-02-24-ethnobotanical-disclaimer.md)
 
 ---
 ## 1. **Two-Eyed Seeing**
