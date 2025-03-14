@@ -29,7 +29,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-include-cache
   - jekyll-archives
-  - jekyll-mentions
 
 titles_from_headings:
   strip_title: true
