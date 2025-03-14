@@ -1,7 +1,7 @@
 ---
-layout: post
-title: "Two-Eyed Seeing: Integrating Indigenous and Western Knowledge Systems"
-date: 2025-02-24
+layout: page
+title: "Two-Eye Seeing"
+permalink: /two-eye/
 ---
 # Two-Eyed Seeing: Integrating Indigenous and Western Knowledge Systems
 
