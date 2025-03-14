@@ -137,16 +137,14 @@ A curated overview of key topics exploring human-environment relationships—fro
 
 ### **How to Navigate This Blog Index**
 
-1. **Starting Points**  
-   - For essential background on human-environment relationships, check out Posts #1 (Two-Eye Seeing), #2 (Cultural-Ecological Disconnect), #3 (Behavioral Ecology), and #4 (Optimal Foraging Theory).
+1. **Foundational Starting Points of (my) Research**  
+   - For essential background on human-environment relationships and  theoretical insights, check out Posts #1 (Two-Eye Seeing), #2 (Cultural-Ecological Disconnect), #3 (Bronfenbrenner's Bioecological Model), #4 (Julian Steward & Karl Butzer), #5 (Behavioral Ecology), #5 (Optimal Foraging Theory), and #6 (Niche Construction Theory)
 
-2. **Deep Dives**  
-   - Explore Posts #5 (Niche Construction Theory), #7 (Climatic Stationarity), and #9 (Floral & Faunal Refugia) for more specialized concepts in ecological adaptation and resilience.
+2. **Physical Geography Deep Dives**  
+   - Explore Posts #8 (Climatic Stationarity), #9 (Topographic Regionalization) and #10 (Floral & Faunal Refugia) for more specialized concepts in ecological adaptation and resilience.
 
 3. **Regional Case Studies**  
-   - Posts #3, #6, and #10 offer in-depth looks at southwestern Wyoming, showing theory in action within a specific arid-montane setting.
+   - Posts #11, #12, and #10 offer in-depth looks at southwestern Wyoming, showing theory in action within a specific arid-montane setting.
 
-4. **Foundational Thinkers**  
-   - Post #11 showcases the legacies of Julian Steward and Karl Butzer, bridging cultural ecology with holistic archaeological methods.
 
 Use these entries as a comprehensive roadmap to understand how human societies adapt, modify, and sometimes overtax the landscapes they inhabit. Enjoy your reading journey—and may these articles spark fresh insights into the delicate dance between culture and ecology!
