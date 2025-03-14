@@ -1,15 +1,15 @@
 ---
 ---
 
-@import "minima"; // Keep Minima's base styles
+@import "minima"; // Keeps Minima’s base styles
 
-// Adjusted Earthy Colors for Better Readability
-$background-color: #EFE8D8;  // Warmer cream
-$text-color: #2C2C2C;  // Deep neutral gray
-$heading-color: #5C473A; // Rich brown
-$link-color: #8B3A3A; // Earthy red
-$footer-background: #4A5A40; // Deep olive green
-$footer-text: #D8CBB4; // Warm tan
+// 🌿 Improved Earthy Color Theme with Better Contrast
+$background-color: #F2E6D0;  // Light sand
+$text-color: #3E2F24;  // Deep brown (better contrast)
+$heading-color: #4D3327; // Warm brown
+$link-color: #B74F26; // Burnt sienna (better visibility)
+$footer-background: #3E4C36; // Deep forest green
+$footer-text: #F5E6CC; // Soft cream
 
 // Apply colors
 body {
