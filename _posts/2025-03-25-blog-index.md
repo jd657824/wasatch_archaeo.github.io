@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Blog Index"
+date: 2025-02-28 12:00:00
+categories: [blog]
+---
+
 # **Blog Index:**
 
 A curated and evolving overview of key topics exploring human-environment relationships—from climatic stationarity to niche construction, from topographic regionalization to cultural ecological frameworks. Use this index as a gateway to dive deeper into each specialized post.
