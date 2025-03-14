@@ -15,7 +15,7 @@ A curated and evolving overview of key topics exploring human-environment relati
 - Shows how bridging these perspectives leads to deeper insights, collaborative research approaches, and more inclusive stewardship practices.
 - Emphasizes **mutual respect** and **dynamic integration**, rather than blending knowledge systems into a single, uniform perspective.
 
-[**Read Full Post →**](./2025-02-28-Two-Eye-Seeing (Etuaptmumk) & Traditional Ecological Knowledge (TEK).md)
+[**Read Full Post →**](./2025-02-28-two-eyed-seeing-etuaptmumk-tek.md)
 
 ---
 ## 2. **Cultural-Ecological Disconnect**
