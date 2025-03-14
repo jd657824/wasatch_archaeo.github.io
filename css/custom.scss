@@ -3,12 +3,12 @@
 
 @import "minima"; // Keeps Minima’s base styles
 
-// 🌿 ULTRA-READABLE FOOTER COLORS
-$footer-background: #494D4B;  // Dark charcoal green (High contrast, not too harsh)
-$footer-text: #FFFFFF; // True white (Best readability possible)
-$footer-link: #F4A259; // Soft amber-orange (Visible without being jarring)
-$footer-icon: #D17C4A; // Muted terracotta (Subtle but clear)
-$footer-heading: #362E2D; // Deep espresso brown (Strong but warm)
+// 🌿 FINAL HIGH-CONTRAST FOOTER COLORS
+$footer-background: #4A4F3D;  // Deep olive green (strong but natural)
+$footer-text: #FAF9F6; // Near white (Maximum readability)
+$footer-link: #E07A5F; // Earthy coral (Stands out clearly)
+$footer-icon: #D65D25; // Burnt orange (Bold contrast)
+$footer-heading: #2E211B; // Deep espresso brown (Strong but warm)
 
 // Apply footer styles
 .site-footer {
