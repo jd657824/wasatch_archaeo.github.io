@@ -1,4 +1,4 @@
-# **Blog Index: Foundational Insights into Ecology, Archaeology, and Cultural Adaptation**
+# **Blog Index:**
 
 A curated overview of key topics exploring human-environment relationships—from climatic stationarity to niche construction, from topographic regionalization to cultural ecological frameworks. Use this index as a gateway to dive deeper into each specialized post.
 
