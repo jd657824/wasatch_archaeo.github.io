@@ -27,6 +27,10 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-archives
+  - jekyll-mentions
 
 titles_from_headings:
   strip_title: true
