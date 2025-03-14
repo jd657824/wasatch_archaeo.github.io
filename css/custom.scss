@@ -1,0 +1,50 @@
+---
+---
+@import "minima"; // Import Minima's default styles
+
+// Light Earthy Color Theme
+$background-color: #F5F0E1;
+$text-color: #3D405B;
+$link-color: #B56576;
+$primary-accent: #A68A64;
+$secondary-accent: #6B705C;
+
+// Apply to body
+body {
+  background-color: $background-color;
+  color: $text-color;
+  font-family: "Georgia", serif;
+}
+
+// Style Links
+a {
+  color: $link-color;
+  &:hover {
+    color: darken($link-color, 10%);
+  }
+}
+
+// Header & Footer Styling
+.site-header {
+  background-color: $primary-accent;
+  color: $background-color;
+}
+
+.site-footer {
+  background-color: $secondary-accent;
+  color: $background-color;
+  padding: 1rem;
+  text-align: center;
+}
+
+// Button Styling
+button {
+  background-color: $link-color;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+  &:hover {
+    background-color: darken($link-color, 10%);
+  }
+}
