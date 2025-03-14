@@ -3,8 +3,17 @@
 A curated overview of key topics exploring human-environment relationships—from climatic stationarity to niche construction, from topographic regionalization to cultural ecological frameworks. Use this index as a gateway to dive deeper into each specialized post.
 
 ---
+## 1. **Two-Eyed Seeing**
+**Title:** *Integrating Indigenous and Western Knowledge Systems*
 
-## 1. **Cultural-Ecological Disconnect**
+**Highlights:**
+- Presents the concept of _Etuaptmumk_ (“Two-Eyed Seeing”), introduced by Mi’kmaw Elder Albert Marshall, as a guiding framework.
+- Encourages viewing the world through **two distinct yet complementary lenses**—Traditional Ecological Knowledge and Western science.
+- Shows how bridging these perspectives leads to deeper insights, collaborative research approaches, and more inclusive stewardship practices.
+- Emphasizes **mutual respect** and **dynamic integration**, rather than blending knowledge systems into a single, uniform perspective.
+
+---
+## 2. **Cultural-Ecological Disconnect**
 **Title:** *Understanding How We Became Separated from Our Natural Context*
 
 **Highlights:**
@@ -15,38 +24,23 @@ A curated overview of key topics exploring human-environment relationships—fro
 [**Read Full Post →**](#)
 
 ---
-
-## 2. **Optimal Foraging Theory**
-**Title:** *Understanding How Organisms Maximize Energy Gain in Their Environments*
-
-**Highlights:**
-- Introduces key concepts: energy maximization, search/handling times, Marginal Value Theorem.  
-- Applications in archaeology (diet reconstruction, settlement patterns) and ecology (animal foraging).  
-- Addresses critiques involving social, cultural, and spiritual factors in resource decisions.
-
-[**Read Full Post →**](#)
-
----
-
-## 3. **Cultural-Ecological Disconnect (Expanded)**
-**Title:** *Bridging Knowledge Systems and Landscape Histories in Southwest Wyoming*
-
-**Highlights:**
-- Highlights Late Holocene hunter-gatherer adaptations under semi-arid conditions.  
-- Integrates Western scientific methods with Traditional Ecological Knowledge for a holistic approach.  
-- Emphasizes participatory conservation and community-based initiatives to heal ecological and cultural divides.
-
-[**Read Full Post →**](#)
-
----
-
-## 4. **Behavioral Ecology**
+## 3. **Behavioral Ecology**
 **Title:** *Understanding How Organisms Adapt Their Behaviors to Environmental Challenges*
 
 **Highlights:**
 - Explores cost-benefit analyses in foraging, mate selection, and social dynamics.  
 - Details inclusive fitness, evolutionary stable strategies (ESS), and how these shape populations.  
 - Links to human behavioral ecology in subsistence and social structures.
+
+---
+
+## 4. **Optimal Foraging Theory**
+**Title:** *Understanding How Organisms Maximize Energy Gain in Their Environments*
+
+**Highlights:**
+- Introduces key concepts: energy maximization, search/handling times, Marginal Value Theorem.  
+- Applications in archaeology (diet reconstruction, settlement patterns) and ecology (animal foraging).  
+- Addresses critiques involving social, cultural, and spiritual factors in resource decisions.
 
 [**Read Full Post →**](#)
 
@@ -100,7 +94,7 @@ A curated overview of key topics exploring human-environment relationships—fro
 
 ---
 
-## 9. **Floral and Faunal Refugia**
+## 10. **Floral and Faunal Refugia**
 **Title:** *Where Biodiversity Finds Shelter in Changing Climates*
 
 **Highlights:**
@@ -112,7 +106,7 @@ A curated overview of key topics exploring human-environment relationships—fro
 
 ---
 
-## 10. **Southwestern Wyoming’s Ecological Mosaic**
+## 11. **Southwestern Wyoming’s Ecological Mosaic**
 **Title:** *Uniting Climatic Drivers, Stationarity, Topographic Regionalization, and Refugia*
 
 **Highlights:**
@@ -124,7 +118,7 @@ A curated overview of key topics exploring human-environment relationships—fro
 
 ---
 
-## 11. **Julian Steward and Karl Butzer**
+## 12. **Julian Steward and Karl Butzer**
 **Title:** *Where Cultural Ecology Meets Archaeology as Human Ecology*
 
 **Highlights:**
@@ -139,7 +133,7 @@ A curated overview of key topics exploring human-environment relationships—fro
 ### **How to Navigate This Blog Index**
 
 1. **Starting Points**  
-   - For essential background on human-environment relationships, check out Posts #1 (Cultural-Ecological Disconnect), #2 (Optimal Foraging Theory), and #4 (Behavioral Ecology).
+   - For essential background on human-environment relationships, check out Posts #1 (Two-Eye Seeing), #2 (Cultural-Ecological Disconnect), #3 (Behavioral Ecology), and #4 (Optimal Foraging Theory).
 
 2. **Deep Dives**  
    - Explore Posts #5 (Niche Construction Theory), #7 (Climatic Stationarity), and #9 (Floral & Faunal Refugia) for more specialized concepts in ecological adaptation and resilience.
