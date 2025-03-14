@@ -19,6 +19,7 @@ A curated overview of key topics exploring human-environment relationships—fro
 ## 2. **Cultural-Ecological Disconnect**
 
 **Posted:** *TBA*
+
 **Title:** *Understanding How We Became Separated from Our Natural Context*
 
 **Highlights:**
@@ -30,6 +31,9 @@ A curated overview of key topics exploring human-environment relationships—fro
 
 ---
 ## 3. **Bronfenbrenner’s Bioecological Model**
+
+**Posted:** *TBA*
+
 **Title:** *Understanding Human Development Through the PPCT Lens*
 
 **Highlights:**
@@ -49,6 +53,9 @@ A curated overview of key topics exploring human-environment relationships—fro
 [**Read Full Post →**](#)
 ---
 ## 5. **Behavioral Ecology**
+
+**Posted:** *TBA*
+
 **Title:** *Understanding How Organisms Adapt Their Behaviors to Environmental Challenges*
 
 **Highlights:**
@@ -59,6 +66,9 @@ A curated overview of key topics exploring human-environment relationships—fro
 ---
 
 ## 6. **Optimal Foraging Theory**
+
+**Posted:** *TBA*
+
 **Title:** *Understanding How Organisms Maximize Energy Gain in Their Environments*
 
 **Highlights:**
@@ -71,6 +81,9 @@ A curated overview of key topics exploring human-environment relationships—fro
 ---
 
 ## 7. **Niche Construction Theory**
+
+**Posted:** *TBA*
+
 **Title:** *How Organisms Actively Shape Their Environments*
 
 **Highlights:**
@@ -83,6 +96,9 @@ A curated overview of key topics exploring human-environment relationships—fro
 ---
 
 ## 8. **Climatic Stationarity**
+
+**Posted:** *TBA*
+
 **Title:** *Why the Past Is (Mostly) No Longer a Reliable Guide*
 
 **Highlights:**
@@ -95,6 +111,9 @@ A curated overview of key topics exploring human-environment relationships—fro
 ---
 
 ## 9. **Topographic Regionalization**
+
+**Posted:** *TBA*
+
 **Title:** *How Landscapes Shape Cultural-Ecological Patterns*
 
 **Highlights:**
@@ -107,6 +126,9 @@ A curated overview of key topics exploring human-environment relationships—fro
 ---
 
 ## 10. **Floral and Faunal Refugia**
+
+**Posted:** *TBA*
+
 **Title:** *Where Biodiversity Finds Shelter in Changing Climates*
 
 **Highlights:**
@@ -118,6 +140,9 @@ A curated overview of key topics exploring human-environment relationships—fro
 
 ---
 ## 11. **Cultural-Ecological Disconnect and Maize**
+
+**Posted:** *TBA*
+
 **Title:** *When a Promising Resource Becomes an Incompatible Prey*
 
 **Highlights:**
@@ -129,6 +154,9 @@ A curated overview of key topics exploring human-environment relationships—fro
 ---
 
 ## 12. **Southwestern Wyoming’s Ecological Mosaic**
+
+**Posted:** *TBA*
+
 **Title:** *Uniting Climatic Drivers, Stationarity, Topographic Regionalization, and Refugia*
 
 **Highlights:**
