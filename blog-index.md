@@ -24,7 +24,7 @@ A curated and evolving overview of key topics exploring human-environment relati
 - Shows how bridging these perspectives leads to deeper insights, collaborative research approaches, and more inclusive stewardship practices.
 - Emphasizes **mutual respect** and **dynamic integration**, rather than blending knowledge systems into a single, uniform perspective.
 
-[**Read Full Post →**](_posts/2025-02-24-ethnobotanical-disclaimer.md)
+[**Read Full Post →**](_posts/two-eye.md)
 
 ---
 ## 2. **Cultural-Ecological Disconnect**
