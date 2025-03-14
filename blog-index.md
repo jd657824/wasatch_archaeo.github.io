@@ -53,7 +53,6 @@ A curated and evolving overview of key topics exploring human-environment relati
 - Draws parallels to environmental anthropology, illustrating how social structures and personal experiences are nested within broader ecological and cultural systems.
   
 ---
-
 ## 4. **Julian Steward and Karl Butzer**
 
 **Posted:** *TBA*
@@ -68,7 +67,6 @@ A curated and evolving overview of key topics exploring human-environment relati
 [**Read Full Post →**](#)
 
 ---
-
 ## 5. **Behavioral Ecology**
 
 **Posted:** *TBA*
@@ -81,7 +79,6 @@ A curated and evolving overview of key topics exploring human-environment relati
 - Links to human behavioral ecology in subsistence and social structures.
 
 ---
-
 ## 6. **Optimal Foraging Theory**
 
 **Posted:** *TBA*
