@@ -3,14 +3,40 @@
 
 @import "minima"; // Keeps Minima’s base styles
 
-// 🌿 HIGH-CONTRAST EARTHY FOOTER COLORS
-$footer-background: #1F3D1F;  // Deep evergreen
-$footer-text: #FAF3DD; // Warm vanilla (Highly readable)
-$footer-link: #E09641; // Burnt amber (Earthy contrast)
-$footer-icon: #B85C38; // Rust red (Natural pop of color)
-$footer-heading: #D4A373; // Soft copper (Warm yet distinct)
+// 🌿 SOFT, HIGH-CONTRAST EARTHY COLOR PALETTE
+$background-color: #FAF3E0;  // Light cream (Soft & non-straining)
+$text-color: #4A3B2D;  // Deep warm brown (High contrast, but easy on the eyes)
+$heading-color: #6D4C3D; // Soft mocha brown (Warm & readable)
+$link-color: #B37442; // Muted terra cotta (Earthy, but stands out)
+$footer-background: #A5A58D; // Muted sage green (Soft alternative to dark green)
+$footer-text: #FFF8E7; // Warm pale cream (Readable against sage green)
+$footer-link: #D8A05D; // Goldenrod (Stands out but stays natural)
+$footer-icon: #9D5C40; // Warm russet (Earthy contrast)
 
-// Footer Styling
+// Apply colors
+body {
+  background-color: $background-color;
+  color: $text-color;
+  font-family: "Georgia", serif;
+}
+
+// Headings
+h1, h2, h3, h4, h5, h6 {
+  color: $heading-color;
+  font-weight: bold;
+}
+
+// Links
+a {
+  color: $link-color;
+  font-weight: bold;
+  &:hover {
+    color: darken($link-color, 10%);
+    text-decoration: underline;
+  }
+}
+
+// Footer
 .site-footer {
   background-color: $footer-background;
   color: $footer-text;
@@ -26,12 +52,6 @@ $footer-heading: #D4A373; // Soft copper (Warm yet distinct)
     color: darken($footer-link, 10%);
     text-decoration: underline;
   }
-}
-
-// Footer Headings
-.site-footer h1, .site-footer h2, .site-footer h3 {
-  color: $footer-heading;
-  font-weight: bold;
 }
 
 // Footer Icons (if applicable)
