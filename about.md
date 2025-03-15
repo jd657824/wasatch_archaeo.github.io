@@ -1,13 +1,12 @@
 ---
 layout: page
-title: ""
+title: "About"
 permalink: /about/
 ---
-# About the Researcher
+# About the Researcher - Dr. Justin "JD" Dolinar
 
 ---
-
-**Dr. Justin "JD" Dolinar** - Environmental Archaeologist & Human-Environment Co-evolution Specialist
+**Environmental Archaeologist & Human-Environment Co-evolution Specialist**
 
 ---
 ### Research Focus
