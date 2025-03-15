@@ -4,8 +4,6 @@ title: ""
 permalink: /about/
 ---
 
----
-
 # About the Researcher
 
 ---
