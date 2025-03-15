@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: ""
 permalink: /about/
 ---
 
@@ -128,7 +128,6 @@ permalink: /about/
 </style>
 
 <div class="content-wrapper">
-    <!-- Starting directly with the researcher information, skipping the extra "About" heading -->
     <h2>About the Researcher - Dr. Justin "JD" Dolinar</h2>
     
     <hr class="subtle-divider">
