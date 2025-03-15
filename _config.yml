@@ -54,3 +54,4 @@ defaults:
       type: post
     values:
       tags: Other
+      
