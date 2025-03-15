@@ -139,7 +139,7 @@ permalink: /blog-index/
     
     <p>A curated and evolving overview of key topics exploring human-environment relationships—from climatic stationarity to niche construction, from topographic regionalization to cultural ecological frameworks. Use this index as a gateway to dive deeper into each specialized post.</p>
     
-    <p><strong>Ehtnobotanical Data Disclaimer:</strong> <a href="/2025/02/24/ethnobotanical-disclaimer.html">Read Full Post →</a></p>
+    <p><strong>Ehtnobotanical Data Disclaimer:</strong> <a href="./2025-02-24-ethnobotanical-disclaimer.md">Read Full Post →</a></p>
     
     <hr>
     
@@ -157,7 +157,7 @@ permalink: /blog-index/
         <li>Emphasizes <strong>mutual respect</strong> and <strong>dynamic integration</strong>, rather than blending knowledge systems into a single, uniform perspective.</li>
     </ul>
     
-    <p><a href="/2025/02/28/two-eyed-seeing-etuaptmumk-tek.html">Read Full Post →</a></p>
+    <p><a href="./2025-02-28-two-eyed-seeing-etuaptmumk-tek.md">Read Full Post →</a></p>
     
     <hr>
     
