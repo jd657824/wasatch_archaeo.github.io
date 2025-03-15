@@ -36,9 +36,8 @@ These approaches support my examination of subsistence-settlement patterns, flor
 ### Impact & Commitment
 My work contributes to theoretical discussions on human resilience and sustainability by demonstrating the reciprocal feedbacks between cultural agency and environmental change. I remain committed to advancing interdisciplinary scholarship and fostering collaborative partnerships with Indigenous communities to enrich our collective understanding of past and present human ecological dynamics.
 
-
-
 ---
+
 
 # Why Environmental Archaeology?
 
@@ -53,6 +52,7 @@ Environmental archaeology offers profound insights into strategies underpinning 
 
 
 ---
+
 
 # Why the Intermountain West?
 
