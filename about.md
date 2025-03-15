@@ -10,7 +10,7 @@ permalink: /about/
 
 ---
 
-**Dr. Justin "JD" Dolinar** - Environmental Archaeologist | Human-Environment Co-evolution Specialist
+**Dr. Justin "JD" Dolinar** - Environmental Archaeologist & Human-Environment Co-evolution Specialist
 
 ---
 ### Research Focus
@@ -40,8 +40,8 @@ These approaches support my examination of subsistence-settlement patterns, flor
 ### Impact & Commitment
 My work contributes to theoretical discussions on human resilience and sustainability by demonstrating the reciprocal feedbacks between cultural agency and environmental change. I remain committed to advancing interdisciplinary scholarship and fostering collaborative partnerships with Indigenous communities to enrich our collective understanding of past and present human ecological dynamics.
 
----
 
+---
 # Why Environmental Archaeology?
 
 Environmental archaeology provides a critical lens for understanding the complex, reciprocal relationships between human societies and their environments over time. This discipline transcends traditional archaeological narratives that treat culture and nature as distinct domains, instead emphasizing that human actions—from subsistence practices to land management—are inextricably linked to and co-constitutive of the natural world.
@@ -52,8 +52,8 @@ This approach moves beyond environmental determinism by recognizing the agency o
 
 Environmental archaeology offers profound insights into strategies underpinning long-term human resilience and sustainability—increasingly relevant as contemporary societies face ecological challenges that echo those of the past.
 
----
 
+---
 # Why the Intermountain West?
 
 The Intermountain West serves as a natural laboratory for environmental archaeological inquiry, where ecological, cultural, and climatic complexities converge. This region's environmental heterogeneity—encompassing riparian corridors, sagebrush steppes, juniper woodlands, sub-irrigated valleys, and rugged foothills—creates a mosaic of microhabitats that historically sustained diverse subsistence strategies.
