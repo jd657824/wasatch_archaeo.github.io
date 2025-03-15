@@ -69,32 +69,6 @@ permalink: /
         border-radius: 4px;
         box-shadow: 0 4px 12px rgba(0,0,0,0.15);
     }
-    
-    /* Feature box */
-    .feature-box {
-        background-color: rgba(216, 185, 118, 0.1);
-        border-left: 3px solid var(--accent-color);
-        padding: 1.5rem;
-        margin: 2rem 0;
-        border-radius: 0 4px 4px 0;
-    }
-    
-    .feature-box a {
-        display: inline-block;
-        background-color: var(--primary-color);
-        color: white;
-        padding: 0.5rem 1.2rem;
-        margin-top: 1rem;
-        border: none;
-        border-radius: 4px;
-        font-weight: 500;
-        transition: background-color 0.2s;
-    }
-    
-    .feature-box a:hover {
-        background-color: var(--secondary-color);
-        border: none;
-    }
 </style>
 
 <div class="content-wrapper">
@@ -102,8 +76,5 @@ permalink: /
     
     <p>Welcome to my personal research blog—a scholarly space dedicated to sharing insights from fieldwork, research perspectives, and rigorous explorations of both theoretical constructs and imaginative inquiries. My aim is not only to confront the unknown but also to present these challenges in an accessible manner, enabling diverse audiences to engage with and comprehend the intricate dynamics of our Earth system and the extraordinary adaptive strategies that have sustained human societies throughout time.</p>
     
-    <div class="feature-box">
-        <h3>Ready to Explore?</h3>
-        <a href="./blog-index.md">Start Here: Foundational Concepts & Theoretical Insights</a>
-    </div>
+    <p>[Start Here: Foundational Concepts & Theoretical Insights](./blog-index.md)</p>
 </div>
