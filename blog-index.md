@@ -8,8 +8,8 @@ A curated and evolving overview of key topics exploring human-environment relati
 
 ---
 **Ethnobotanical Data Disclaimer:** [**Read Full Post →**](./disclaimer.md)
----
 
+---
 ## 1. **Two-Eyed Seeing**
 
 **Posted:** *2-25-25*
