@@ -5,6 +5,11 @@ permalink: /blog-index/
 ---
 
 <style>
+    /* This is the critical part - hide the auto-generated About heading */
+    h1.post-title, h1.page-title, header.post-header h1 {
+        display: none !important;
+    }
+    
     /* Text-only styling that preserves existing navigation and footer */
     :root {
         --primary-color: #5b7e5f;
@@ -25,15 +30,6 @@ permalink: /blog-index/
     }
     
     /* Content headings */
-    .content-wrapper h1 {
-        font-size: 2.2rem;
-        color: var(--primary-color);
-        margin: 1.5rem 0;
-        font-weight: 500;
-        border-bottom: 2px solid var(--accent-color);
-        padding-bottom: 0.5rem;
-    }
-    
     .content-wrapper h2 {
         font-size: 1.7rem;
         color: var(--secondary-color);
@@ -63,29 +59,11 @@ permalink: /blog-index/
         font-weight: 600;
     }
     
-    .content-wrapper em {
-        font-style: italic;
-    }
-    
-    /* Links styling */
-    .content-wrapper a {
-        color: var(--primary-color);
-        text-decoration: none;
-        border-bottom: 1px solid var(--accent-color);
-        transition: color 0.2s, border-color 0.2s;
-        font-weight: 500;
-    }
-    
-    .content-wrapper a:hover {
-        color: var(--secondary-color);
-        border-color: var(--secondary-color);
-    }
-    
     /* Horizontal rules */
     .content-wrapper hr {
         border: none;
         height: 1px;
-        background: linear-gradient(to right, transparent, var(--accent-color), transparent);
+        background-color: #e0e0e0;
         margin: 2rem 0;
     }
     
@@ -110,7 +88,54 @@ permalink: /blog-index/
         left: 0;
     }
     
-    /* Ordered list styling */
+    /* Key terms */
+    .key-term {
+        background-color: rgba(216, 185, 118, 0.2);
+        padding: 0 4px;
+        border-radius: 3px;
+    }
+    
+    /* Section dividers (subtle) */
+    .subtle-divider {
+        height: 1px;
+        background: linear-gradient(to right, transparent, #e0e0e0, transparent);
+        margin: 2rem 0;
+        border: none;
+    }
+    
+    /* Researcher title styling */
+    .researcher-title {
+        font-size: 1.2rem;
+        font-weight: 500;
+        text-align: center;
+        margin: 1.5rem 0;
+        color: var(--secondary-color);
+        font-style: italic;
+    }
+    
+    /* Box for important content */
+    .highlight-box {
+        border-left: 3px solid var(--accent-color);
+        background-color: rgba(216, 185, 118, 0.1);
+        padding: 1rem 1.5rem;
+        margin: 1.5rem 0;
+        border-radius: 0 4px 4px 0;
+    }
+    
+    /* Quote styling */
+    .content-wrapper blockquote {
+        border-left: 3px solid var(--accent-color);
+        padding: 0.5rem 0 0.5rem 1rem;
+        margin: 1.5rem 0 1.5rem 1rem;
+        font-style: italic;
+        color: #555;
+    }
+    
+    /* Additional styles for blog index */
+    .content-wrapper em {
+        font-style: italic;
+    }
+    
     .content-wrapper ol {
         counter-reset: item;
         margin-left: 0;
@@ -135,13 +160,13 @@ permalink: /blog-index/
 </style>
 
 <div class="content-wrapper">
-    <h1>Blog Index:</h1>
+    <h2>Blog Index:</h2>
     
     <p>A curated and evolving overview of key topics exploring human-environment relationships—from climatic stationarity to niche construction, from topographic regionalization to cultural ecological frameworks. Use this index as a gateway to dive deeper into each specialized post.</p>
     
     <p><strong>Ehtnobotanical Data Disclaimer:</strong> <a href="./2025-02-24-ethnobotanical-disclaimer.md">Read Full Post →</a></p>
     
-    <hr>
+    <hr class="subtle-divider">
     
     <h2>1. Two-Eyed Seeing</h2>
     
@@ -159,7 +184,7 @@ permalink: /blog-index/
     
     <p><a href="./2025-02-28-two-eyed-seeing-etuaptmumk-tek.md">Read Full Post →</a></p>
     
-    <hr>
+    <hr class="subtle-divider">
     
     <h2>2. Cultural-Ecological Disconnect</h2>
     
@@ -176,7 +201,7 @@ permalink: /blog-index/
     
     <p><a href="#">Read Full Post →</a></p>
     
-    <hr>
+    <hr class="subtle-divider">
     
     <h2>3. Bronfenbrenner's Bioecological Model</h2>
     
@@ -192,7 +217,7 @@ permalink: /blog-index/
         <li>Draws parallels to environmental anthropology, illustrating how social structures and personal experiences are nested within broader ecological and cultural systems.</li>
     </ul>
     
-    <hr>
+    <hr class="subtle-divider">
     
     <h2>4. Julian Steward and Karl Butzer</h2>
     
@@ -209,7 +234,7 @@ permalink: /blog-index/
     
     <p><a href="#">Read Full Post →</a></p>
     
-    <hr>
+    <hr class="subtle-divider">
     
     <h2>5. Behavioral Ecology</h2>
     
@@ -224,7 +249,7 @@ permalink: /blog-index/
         <li>Links to human behavioral ecology in subsistence and social structures.</li>
     </ul>
     
-    <hr>
+    <hr class="subtle-divider">
     
     <h2>6. Optimal Foraging Theory</h2>
     
@@ -241,7 +266,7 @@ permalink: /blog-index/
     
     <p><a href="#">Read Full Post →</a></p>
     
-    <hr>
+    <hr class="subtle-divider">
     
     <h2>7. Niche Construction Theory</h2>
     
@@ -258,7 +283,7 @@ permalink: /blog-index/
     
     <p><a href="#">Read Full Post →</a></p>
     
-    <hr>
+    <hr class="subtle-divider">
     
     <h2>8. Climatic Stationarity</h2>
     
@@ -275,7 +300,7 @@ permalink: /blog-index/
     
     <p><a href="#">Read Full Post →</a></p>
     
-    <hr>
+    <hr class="subtle-divider">
     
     <h2>9. Topographic Regionalization</h2>
     
@@ -292,7 +317,7 @@ permalink: /blog-index/
     
     <p><a href="#">Read Full Post →</a></p>
     
-    <hr>
+    <hr class="subtle-divider">
     
     <h2>10. Floral and Faunal Refugia</h2>
     
@@ -309,7 +334,7 @@ permalink: /blog-index/
     
     <p><a href="#">Read Full Post →</a></p>
     
-    <hr>
+    <hr class="subtle-divider">
     
     <h2>11. Cultural-Ecological Disconnect and Maize</h2>
     
@@ -326,7 +351,7 @@ permalink: /blog-index/
     
     <p><a href="#">Read Full Post →</a></p>
     
-    <hr>
+    <hr class="subtle-divider">
     
     <h2>12. Southwestern Wyoming's Ecological Mosaic</h2>
     
@@ -343,7 +368,7 @@ permalink: /blog-index/
     
     <p><a href="#">Read Full Post →</a></p>
     
-    <hr>
+    <hr class="subtle-divider">
     
     <h3>How to Navigate This Blog Index</h3>
     
