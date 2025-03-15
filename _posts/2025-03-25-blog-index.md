@@ -1,192 +1,206 @@
-
-
-# **Blog Index:**
-
-A curated and evolving overview of key topics exploring human-environment relationships—from climatic stationarity to niche construction, from topographic regionalization to cultural ecological frameworks. Use this index as a gateway to dive deeper into each specialized post.
-
-**Ehtnobotanical Data Disclaimer:** [**Read Full Post →**](./2025-02-24-ethnobotanical-disclaimer.md)
-
 ---
-## 1. **Two-Eyed Seeing**
-
-**Posted:** *2-25-25*
-
-**Title:** *Integrating Indigenous and Western Knowledge Systems*
-
-**Highlights:**
-- Presents the concept of _Etuaptmumk_ (“Two-Eyed Seeing”), introduced by Mi’kmaw Elder Albert Marshall, as a guiding framework.
-- Encourages viewing the world through **two distinct yet complementary lenses**—Traditional Ecological Knowledge and Western science.
-- Shows how bridging these perspectives leads to deeper insights, collaborative research approaches, and more inclusive stewardship practices.
-- Emphasizes **mutual respect** and **dynamic integration**, rather than blending knowledge systems into a single, uniform perspective.
-
-[**Read Full Post →**](./2025-02-28-two-eyed-seeing-etuaptmumk-tek.md)
-
----
-## 2. **Cultural-Ecological Disconnect**
-
-**Posted:** *TBA*
-
-**Title:** *Understanding How We Became Separated from Our Natural Context*
-
-**Highlights:**
-- Defines the “cultural-ecological disconnect” and traces its roots in industrialization and colonial expansion.  
-- Examines impacts like resource overexploitation, reduced adaptive capacity, and erosion of Indigenous knowledge systems.  
-- Explores how bridging TEK with scientific frameworks fosters reconnection and resilience.
-
-[**Read Full Post →**](#)
-
----
-## 3. **Bronfenbrenner’s Bioecological Model**
-
-**Posted:** *TBA*
-
-**Title:** *Understanding Human Development Through the PPCT Lens*
-
-**Highlights:**
-- Introduces Urie Bronfenbrenner’s bioecological model, highlighting the **Process-Person-Context-Time (PPCT)** framework.
-- Explains how **microsystems, mesosystems, exosystems, and macrosystems** shape individual growth within an ecological context.
-- Emphasizes **process** (reciprocal interactions), **person** (individual characteristics), **context** (environmental layers), and **time** (temporal shifts) as interconnected factors.
-- Draws parallels to environmental anthropology, illustrating how social structures and personal experiences are nested within broader ecological and cultural systems.
----
-## 4. **Julian Steward and Karl Butzer**
-
-**Posted:** *TBA*
-
-**Title:** *Where Cultural Ecology Meets Archaeology as Human Ecology*
-
-**Highlights:**
-- Compares Steward’s cultural ecology (multilinear evolution) with Butzer’s “archaeology as human ecology.”  
-- Discusses Butzer’s five critical dynamics (environment, technology, economy, social organization, ideology).  
-- Highlights environment-culture feedback loops and the importance of holistic, long-term perspectives.
-
-[**Read Full Post →**](#)
----
-## 5. **Behavioral Ecology**
-
-**Posted:** *TBA*
-
-**Title:** *Understanding How Organisms Adapt Their Behaviors to Environmental Challenges*
-
-**Highlights:**
-- Explores cost-benefit analyses in foraging, mate selection, and social dynamics.  
-- Details inclusive fitness, evolutionary stable strategies (ESS), and how these shape populations.  
-- Links to human behavioral ecology in subsistence and social structures.
-
+layout: page
+title: ""
+permalink: /blog-index/
 ---
 
-## 6. **Optimal Foraging Theory**
+<style>
+    /* Text-only styling that preserves existing navigation and footer */
+    :root {
+        --primary-color: #5b7e5f;
+        --secondary-color: #8a6552;
+        --accent-color: #d8b976;
+        --light-bg: #f8f8f5;
+        --dark-text: #333333;
+    }
+    
+    /* Main content styles only */
+    .content-wrapper {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        line-height: 1.7;
+        color: var(--dark-text);
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 0 20px;
+    }
+    
+    /* Content headings */
+    .content-wrapper h1 {
+        font-size: 2.2rem;
+        color: var(--primary-color);
+        margin: 1.5rem 0;
+        font-weight: 500;
+        border-bottom: 2px solid var(--accent-color);
+        padding-bottom: 0.5rem;
+    }
+    
+    .content-wrapper h2 {
+        font-size: 1.7rem;
+        color: var(--secondary-color);
+        margin: 2.2rem 0 1.2rem;
+        font-weight: 500;
+    }
+    
+    .content-wrapper h3 {
+        font-size: 1.35rem;
+        color: var(--primary-color);
+        margin: 1.8rem 0 1rem;
+        font-weight: 500;
+    }
+    
+    /* Paragraph styling */
+    .content-wrapper p {
+        margin-bottom: 1.2rem;
+        font-size: 1.05rem;
+        line-height: 1.7;
+        text-align: justify;
+    }
+    
+    /* Emphasis */
+    .content-wrapper strong, 
+    .content-wrapper b {
+        color: var(--secondary-color);
+        font-weight: 600;
+    }
+    
+    .content-wrapper em {
+        font-style: italic;
+    }
+    
+    /* Links styling */
+    .content-wrapper a {
+        color: var(--primary-color);
+        text-decoration: none;
+        border-bottom: 1px solid var(--accent-color);
+        transition: color 0.2s, border-color 0.2s;
+        font-weight: 500;
+    }
+    
+    .content-wrapper a:hover {
+        color: var(--secondary-color);
+        border-color: var(--secondary-color);
+    }
+    
+    /* Horizontal rules */
+    .content-wrapper hr {
+        border: none;
+        height: 1px;
+        background: linear-gradient(to right, transparent, var(--accent-color), transparent);
+        margin: 2rem 0;
+    }
+    
+    /* Lists */
+    .content-wrapper ul {
+        margin-left: 1rem;
+        margin-bottom: 1.5rem;
+    }
+    
+    .content-wrapper li {
+        margin-bottom: 0.7rem;
+        position: relative;
+        padding-left: 1.2rem;
+        list-style-type: none;
+    }
+    
+    .content-wrapper li::before {
+        content: "•";
+        color: var(--accent-color);
+        font-weight: bold;
+        position: absolute;
+        left: 0;
+    }
+    
+    /* Blog post entries */
+    .blog-entry {
+        margin-bottom: 2.5rem;
+        padding-bottom: 1.5rem;
+    }
+    
+    .post-meta {
+        font-size: 0.9rem;
+        color: #666;
+        margin-bottom: 0.5rem;
+    }
+    
+    .post-title {
+        font-size: 1.3rem;
+        color: var(--secondary-color);
+        font-style: italic;
+        margin-bottom: 1rem;
+    }
+    
+    .read-more {
+        display: inline-block;
+        margin-top: 1rem;
+        font-weight: 600;
+    }
+</style>
 
-**Posted:** *TBA*
-
-**Title:** *Understanding How Organisms Maximize Energy Gain in Their Environments*
-
-**Highlights:**
-- Introduces key concepts: energy maximization, search/handling times, Marginal Value Theorem.  
-- Applications in archaeology (diet reconstruction, settlement patterns) and ecology (animal foraging).  
-- Addresses critiques involving social, cultural, and spiritual factors in resource decisions.
-
-[**Read Full Post →**](#)
-
----
-
-## 7. **Niche Construction Theory**
-
-**Posted:** *TBA*
-
-**Title:** *How Organisms Actively Shape Their Environments*
-
-**Highlights:**
-- Positions evolution as a two-way street: species adapt to environments while also modifying them.  
-- Discusses examples from beavers to ancient agriculturalists, showing ecosystem engineering.  
-- Examines cultural dimensions of human-driven niche construction and implications for sustainability.
-
-[**Read Full Post →**](#)
-
----
-
-## 8. **Climatic Stationarity**
-
-**Posted:** *TBA*
-
-**Title:** *Why the Past Is (Mostly) No Longer a Reliable Guide*
-
-**Highlights:**
-- Explains the end of stationarity under climate change, with shifting extremes and feedback loops.  
-- Looks at water management impacts and planning challenges.  
-- Encourages adaptive strategies, real-time data collection, and scenario-based approaches.
-
-[**Read Full Post →**](#)
-
----
-
-## 9. **Topographic Regionalization**
-
-**Posted:** *TBA*
-
-**Title:** *How Landscapes Shape Cultural-Ecological Patterns*
-
-**Highlights:**
-- Defines topographic regionalization—dividing areas based on landforms and geomorphology.  
-- Illustrates how altitude, slope, and orientation influence microclimates and biodiversity.  
-- Features southwestern Wyoming as an example, showcasing mountain-valley environmental gradients.
-
-[**Read Full Post →**](#)
-
----
-
-## 10. **Floral and Faunal Refugia**
-
-**Posted:** *TBA*
-
-**Title:** *Where Biodiversity Finds Shelter in Changing Climates*
-
-**Highlights:**
-- Introduces refugia as local havens sustaining species during climatic upheavals.  
-- Offers examples (glacial refugia, montane forests, riparian corridors) and modern conservation needs.  
-- Argues for targeted protection and corridor connectivity to preserve biodiversity.
-
-[**Read Full Post →**](#)
-
----
-## 11. **Cultural-Ecological Disconnect and Maize**
-
-**Posted:** *TBA*
-
-**Title:** *When a Promising Resource Becomes an Incompatible Prey*
-
-**Highlights:**
-- Focuses on the Basin-Plateau region, analyzing how maize agriculture clashed with arid environments.  
-- Tracks how initial benefits eventually gave way to ecological mismatches.  
-- Draws parallels to modern monocultures reliant on fragile, water-intensive systems.
-
-[**Read Full Post →**](#)
----
-
-## 12. **Southwestern Wyoming’s Ecological Mosaic**
-
-**Posted:** *TBA*
-
-**Title:** *Uniting Climatic Drivers, Stationarity, Topographic Regionalization, and Refugia*
-
-**Highlights:**
-- Explains how late Holocene conditions underlie today’s semi-arid to montane ecosystems.  
-- Details ENSO influences, partial stationarity, and dramatic topographic variations.  
-- Emphasizes the role of refugia and integrated land management for long-term resilience.
-
-[**Read Full Post →**](#)
-
----
-
-### **How to Navigate This Blog Index**
-
-1. **Foundational Starting Points of (my) Research**  
-   - For essential background on human-environment relationships and  theoretical insights, check out Posts #1 (Two-Eye Seeing), #2 (Cultural-Ecological Disconnect), #3 (Bronfenbrenner's Bioecological Model), #4 (Julian Steward & Karl Butzer), #5 (Behavioral Ecology), #5 (Optimal Foraging Theory), and #6 (Niche Construction Theory)
-
-2. **Physical Geography Deep Dives**  
-   - Explore Posts #8 (Climatic Stationarity), #9 (Topographic Regionalization) and #10 (Floral & Faunal Refugia) for more specialized concepts in ecological adaptation and resilience.
-
-3. **Regional Case Studies**  
-   - Posts #11, #12, and #10 offer in-depth looks at southwestern Wyoming, showing theory in action within a specific arid-montane setting.
-
-
-Use these entries as a comprehensive roadmap to understand how human societies adapt, modify, and sometimes overtax the landscapes they inhabit. Enjoy your reading journey—and may these articles spark fresh insights into the delicate dance between culture and ecology!
+<div class="content-wrapper">
+    <h1>Blog Index:</h1>
+    
+    <p>A curated and evolving overview of key topics exploring human-environment relationships—from climatic stationarity to niche construction, from topographic regionalization to cultural ecological frameworks. Use this index as a gateway to dive deeper into each specialized post.</p>
+    
+    <p><strong>Ehtnobotanical Data Disclaimer:</strong> <a href="/wasatch_archaeo.github.io/2025-02-24-ethnobotanical-disclaimer/">Read Full Post →</a></p>
+    
+    <hr>
+    
+    <div class="blog-entry">
+        <h2>1. Two-Eyed Seeing</h2>
+        
+        <div class="post-meta"><strong>Posted:</strong> <em>2-25-25</em></div>
+        <div class="post-title"><strong>Title:</strong> <em>Integrating Indigenous and Western Knowledge Systems</em></div>
+        
+        <strong>Highlights:</strong>
+        <ul>
+            <li>Presents the concept of <em>Etuaptmumk</em> ("Two-Eyed Seeing"), introduced by Mi'kmaw Elder Albert Marshall, as a guiding framework.</li>
+            <li>Encourages viewing the world through <strong>two distinct yet complementary lenses</strong>—Traditional Ecological Knowledge and Western science.</li>
+            <li>Shows how bridging these perspectives leads to deeper insights, collaborative research approaches, and more inclusive stewardship practices.</li>
+            <li>Emphasizes <strong>mutual respect</strong> and <strong>dynamic integration</strong>, rather than blending knowledge systems into a single, uniform perspective.</li>
+        </ul>
+        
+        <a href="/wasatch_archaeo.github.io/2025-02-28-two-eyed-seeing-etuaptmumk-tek/" class="read-more">Read Full Post →</a>
+    </div>
+    
+    <hr>
+    
+    <div class="blog-entry">
+        <h2>2. Cultural-Ecological Disconnect</h2>
+        
+        <div class="post-meta"><strong>Posted:</strong> <em>TBA</em></div>
+        <div class="post-title"><strong>Title:</strong> <em>Understanding How We Became Separated from Our Natural Context</em></div>
+        
+        <strong>Highlights:</strong>
+        <ul>
+            <li>Defines the "cultural-ecological disconnect" and traces its roots in industrialization and colonial expansion.</li>
+            <li>Examines impacts like resource overexploitation, reduced adaptive capacity, and erosion of Indigenous knowledge systems.</li>
+            <li>Explores how bridging TEK with scientific frameworks fosters reconnection and resilience.</li>
+        </ul>
+        
+        <a href="#" class="read-more">Read Full Post →</a>
+    </div>
+    
+    <hr>
+    
+    <div class="blog-entry">
+        <h2>3. Bronfenbrenner's Bioecological Model</h2>
+        
+        <div class="post-meta"><strong>Posted:</strong> <em>TBA</em></div>
+        <div class="post-title"><strong>Title:</strong> <em>Understanding Human Development Through the PPCT Lens</em></div>
+        
+        <strong>Highlights:</strong>
+        <ul>
+            <li>Introduces Urie Bronfenbrenner's bioecological model, highlighting the <strong>Process-Person-Context-Time (PPCT)</strong> framework.</li>
+            <li>Explains how <strong>microsystems, mesosystems, exosystems, and macrosystems</strong> shape individual growth within an ecological context.</li>
+            <li>Emphasizes <strong>process</strong> (reciprocal interactions), <strong>person</strong> (individual characteristics), <strong>context</strong> (environmental layers), and <strong>time</strong> (temporal shifts) as interconnected factors.</li>
+            <li>Draws parallels to environmental anthropology, illustrating how social structures and personal experiences are nested within broader ecological and cultural systems.</li>
+        </ul>
+    </div>
+    
+    <hr>
+    
+    <div class="blog-entry">
+        <h2>4. Julian Steward and Karl Butzer</h2>
+        
+        <div class="post-meta"><strong>Posted:</strong> <em>TBA</em></div>
+        <div class="post-title"><strong>Title:</strong> <em>
