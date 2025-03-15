@@ -18,6 +18,7 @@ instagram_username: "@jd657824"
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 theme: "minima"
+
 minima:
   skin: null
   social_links:
@@ -31,6 +32,7 @@ header_pages:
   - blog.md
   - credentials.md
   - podcast.md
+
 rss: rss
 
 kramdown:
@@ -45,7 +47,6 @@ titles_from_headings:
   strip_title: true
   collections: true
 
-# This line ensures your posts use /YYYY/MM/DD/title/ URLs:
 permalink: /:year/:month/:day/:title/
 
 defaults:
@@ -54,4 +55,7 @@ defaults:
       type: post
     values:
       tags: Other
-      
+  - scope:
+      path: "feed.xml"
+    values:
+      layout: "feed"
