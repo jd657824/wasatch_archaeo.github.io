@@ -44,6 +44,9 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+feed:
+  path: "feed.xml"
+
 titles_from_headings:
   strip_title: true
   collections: true
@@ -53,9 +56,10 @@ permalink: /:year/:month/:day/:title/
 defaults:
   - scope:
       path: ""
-      type: post
+    type: post
     values:
       tags: Other
+
   - scope:
       path: "feed.xml"
     values:
