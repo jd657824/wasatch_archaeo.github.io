@@ -1,10 +1,15 @@
 ---
 layout: page
-title: ""
+title: "About"
 permalink: /about/
 ---
 
 <style>
+    /* This is the critical part - hide the auto-generated About heading */
+    h1.post-title, h1.page-title, header.post-header h1 {
+        display: none !important;
+    }
+    
     /* Text-only styling that preserves existing navigation and footer */
     :root {
         --primary-color: #5b7e5f;
