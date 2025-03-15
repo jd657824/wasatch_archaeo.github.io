@@ -47,7 +47,7 @@ titles_from_headings:
 permalink: /:year/:month/:day/:title/
 
 # Add this line to remove top nav pages in Minima
-header_pages: []
+#header_pages: []
 
 defaults:
   - scope:
