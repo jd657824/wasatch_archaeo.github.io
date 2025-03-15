@@ -30,6 +30,7 @@ header_pages:
   - projects.md
   - blog.md
   - credentials.md
+  -podcast.md
 rss: rss
 
 kramdown:
