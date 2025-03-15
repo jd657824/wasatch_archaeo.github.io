@@ -12,13 +12,13 @@ layout: none
     <language>en-us</language>
 
     {% for post in site.posts limit:10 %}
-      <item>
-        <title>{{ post.title | escape }}</title>
-        <link>{{ post.url | absolute_url }}</link>
-        <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <description>{{ post.excerpt | strip_html | escape }}</description>
-      </item>
+    <item>
+      <title>{{ post.title | escape }}</title>
+      <link>{{ post.url | absolute_url }}</link>
+      <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+      <description>{{ post.excerpt | strip_html | escape }}</description>
+    </item>
     {% endfor %}
   </channel>
 </rss>
