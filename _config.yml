@@ -17,15 +17,17 @@ instagram_username: "@jd657824"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-url: "https://jd657824.github.io/wasatch_archaeo.github.io"
+# The top part stays the same as your current config
+url: "https://jd657824.github.io"
+baseurl: "/wasatch_archaeo.github.io"
 theme: "minima"
-
 minima:
   skin: null
   social_links:
     github: yourusername
     linkedin: yourusername
     bluesky: yourusername
+# The rest of your config stays the same
 
 header_pages:
   - about.md
