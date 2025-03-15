@@ -4,8 +4,10 @@
       <a href="{{ "/" | absolute_url }}">{{ site.title | escape }}</a>
     </h1>
     <nav class="site-nav">
-      {% for page in site.header_pages %}
-        <a class="page-link" href="{{ page.url | relative_url }}">{{ page.title }}</a>
+      {% for page in site.pages %}
+        {% if site.header_pages contains page.path %}
+          <a class="page-link" href="{{ page.url | relative_url }}">{{ page.title }}</a>
+        {% endif %}
       {% endfor %}
     </nav>
   </div>
