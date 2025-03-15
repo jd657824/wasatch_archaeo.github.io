@@ -127,7 +127,7 @@ permalink: /blog-index/
     
     <hr class="subtle-divider">
     
-    <p><strong>Ethnobotanical Data Disclaimer:</strong> <a href="/disclaimer.md" class="read-more">Read Full Post →</a></p>
+    <p><strong>Ethnobotanical Data Disclaimer:</strong> <a href="/disclaimer" class="read-more">Read Full Post →</a></p>
     
     <hr class="subtle-divider">
     
@@ -145,7 +145,7 @@ permalink: /blog-index/
             </ul>
         </div>
         
-        <a href="/two-eye.md" class="read-more">Read Full Post →</a>
+        <a href="/two-eye" class="read-more">Read Full Post →</a></a>
     </div>
     
     <hr class="subtle-divider">
