@@ -7,6 +7,7 @@ permalink: /blog-index/
 A curated and evolving overview of key topics exploring human-environment relationships—from climatic stationarity to niche construction, from topographic regionalization to cultural ecological frameworks. Use this index as a gateway to dive deeper into each specialized post.
 
 ---
+
 **Ethnobotanical Data Disclaimer:** [**Read Full Post →**](./disclaimer.md)
 
 ---
