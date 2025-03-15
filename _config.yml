@@ -17,6 +17,7 @@ instagram_username: "@jd657824"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
+url: "https://jd657824.github.io/wasatch_archaeo.github.io"
 theme: "minima"
 
 minima:
