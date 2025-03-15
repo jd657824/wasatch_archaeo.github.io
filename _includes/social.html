@@ -1,6 +1,6 @@
 <ul class="social-media-list">
   {%- if site.github_username -%}<li><a href="https://github.com/{{ site.github_username | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span class="username">{{ site.github_username | escape }}</span></a></li>{%- endif -%}
-  {%- if site.instagram_username -%}<li><a href="https://www.instagram.com/{{ site.instagram_username | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#instagram' | relative_url }}"></use></svg> <span class="username">{{ site.instagram_username | escape }}</span></a></li>{%- endif -%}
+  <li><a href="https://www.instagram.com/jd657824"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#instagram' | relative_url }}"></use></svg> <span class="username">Instagram</span></a></li>
   <li><a href="https://bsky.app/profile/jd657824.bsky.social"><svg class="svg-icon" viewBox="0 0 16 16"><path d="M8 0L0 5l2 8h12l2-8L8 0zm0 3L3 6.4l1 4.6h8l1-4.6L8 3z"/></svg> <span class="username">Bluesky</span></a></li>
   {%- if site.rss -%}<li><a href="{{ 'feed.xml' | relative_url }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg> <span>{{ site.rss | escape }}</span></a></li>{%- endif -%}
 </ul>
