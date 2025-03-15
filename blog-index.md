@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Blog Index"
+title: "Foundational Concepts & Theoretical Insights"
 permalink: /blog-index/
 ---
 
