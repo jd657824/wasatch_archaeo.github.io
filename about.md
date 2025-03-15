@@ -37,6 +37,7 @@ These approaches support my examination of subsistence-settlement patterns, flor
 My work contributes to theoretical discussions on human resilience and sustainability by demonstrating the reciprocal feedbacks between cultural agency and environmental change. I remain committed to advancing interdisciplinary scholarship and fostering collaborative partnerships with Indigenous communities to enrich our collective understanding of past and present human ecological dynamics.
 
 
+
 ---
 
 # Why Environmental Archaeology?
@@ -48,6 +49,7 @@ The field builds upon Julian Steward's cultural ecology and Butzer's (1982) semi
 This approach moves beyond environmental determinism by recognizing the agency of prehistoric peoples who actively modified landscapes—not merely adapting to existing conditions but engineering environments to enhance resource predictability and resilience. The methodological synergy of advanced geospatial analyses, archaeobotanical studies, and evolutionary ecology enriches our understanding of past subsistence–settlement patterns and the co-evolutionary processes underlying sustainable human–environment systems.
 
 Environmental archaeology offers profound insights into strategies underpinning long-term human resilience and sustainability—increasingly relevant as contemporary societies face ecological challenges that echo those of the past.
+
 
 
 ---
