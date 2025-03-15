@@ -1,7 +1,7 @@
 <header class="site-header">
   <div class="wrapper">
     <h1 class="site-title">
-      <a href="{{ site.baseurl }}/">{{ site.title | escape }}</a>
+      <a href="{{ site.baseurl }}/" onclick="if(window.location.pathname === '{{ site.baseurl }}/' || window.location.pathname === '/') { window.location.reload(); return false; }">{{ site.title | escape }}</a>
     </h1>
     <nav class="site-nav">
       {% for page in site.pages %}
