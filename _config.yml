@@ -20,6 +20,15 @@ instagram_username: "@jd657824"
 theme: "minima"
 minima:
   skin: null  # Disables Minima’s default skin so custom styles take effect
+  social_links:
+    github: yourusername
+    linkedin: yourusername
+    bluesky: youusername
+  header_pages:
+    - about.md
+    - projects.md
+    - blog.md
+    - credentials.md
 rss: rss
 
 kramdown:
