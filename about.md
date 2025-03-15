@@ -3,7 +3,6 @@ layout: page
 title: ""
 permalink: /about/
 ---
-
 # About the Researcher
 
 ---
@@ -40,6 +39,7 @@ My work contributes to theoretical discussions on human resilience and sustainab
 
 
 ---
+
 # Why Environmental Archaeology?
 
 Environmental archaeology provides a critical lens for understanding the complex, reciprocal relationships between human societies and their environments over time. This discipline transcends traditional archaeological narratives that treat culture and nature as distinct domains, instead emphasizing that human actions—from subsistence practices to land management—are inextricably linked to and co-constitutive of the natural world.
@@ -52,6 +52,7 @@ Environmental archaeology offers profound insights into strategies underpinning 
 
 
 ---
+
 # Why the Intermountain West?
 
 The Intermountain West serves as a natural laboratory for environmental archaeological inquiry, where ecological, cultural, and climatic complexities converge. This region's environmental heterogeneity—encompassing riparian corridors, sagebrush steppes, juniper woodlands, sub-irrigated valleys, and rugged foothills—creates a mosaic of microhabitats that historically sustained diverse subsistence strategies.
