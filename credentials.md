@@ -5,6 +5,11 @@ permalink: /credentials/
 ---
 
 <style>
+    /* Hide the auto-generated page heading (like "Credentials") */
+    h1.post-title, h1.page-title, header.post-header h1 {
+        display: none !important;
+    }
+    
     :root {
         --primary-color: #5b7e5f;
         --secondary-color: #8a6552;
