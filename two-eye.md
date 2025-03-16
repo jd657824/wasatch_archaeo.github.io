@@ -1,7 +1,6 @@
 ---
-layout: page
-title: "Two-Eye Seeing"
-permalink: /two-eye/
+title: "Ethnobotanical Data Disclaimer"
+permalink: /disclaimer/
 ---
 # Two-Eyed Seeing: Integrating Indigenous and Western Knowledge Systems
 
