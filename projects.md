@@ -111,6 +111,6 @@ permalink: /projects/
         <li><strong>Project Idea 3:</strong> Discussion of new methods or perspectives needed, and potential funding opportunities.</li>
     </ul>
     <p>
-        If you are interested in collaborating or would like to discuss any of these projects further, please <a href="mailto:your-email@example.com">get in touch via email</a>.
+        If you are interested in collaborating or would like to discuss any of these projects further, please <a href="mailto:jd.louis.wy@gmail.com">get in touch via email</a>.
     </p>
 </div>
