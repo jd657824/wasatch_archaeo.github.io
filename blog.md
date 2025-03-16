@@ -1,17 +1,17 @@
 ---
 layout: page
-title: "The Environmental Archaeology Heuristic (EAH): A Multi-Scalar Temporal and Spatial Framework for Evaluating Human-Environmental Adaptive Strategies"
-permalink: /blog/the-environmental-archaeology-heuristic/
+title: "Blog"
+permalink: /blog/
 nav_exclude: true
 ---
 
 <style>
-    /* Hide auto-generated heading */
+    /* Hide auto-generated heading if desired */
     h1.post-title, h1.page-title, header.post-header h1 {
         display: none !important;
     }
     
-    /* Color Palette */
+    /* Color Palette (same as your site) */
     :root {
         --primary-color: #5b7e5f;
         --secondary-color: #8a6552;
@@ -30,51 +30,86 @@ nav_exclude: true
         padding: 0 20px;
     }
     
-    /* Page Title */
+    /* Page title */
     .content-wrapper h1 {
-        font-size: 2.2rem;
+        font-size: 2.0rem;
         color: var(--secondary-color);
-        margin: 2rem 0 1rem;
+        margin: 2rem 0 1.5rem;
         font-weight: 500;
         border-bottom: 1px solid rgba(216, 185, 118, 0.3);
         padding-bottom: 0.5rem;
     }
     
-    /* Section Headings */
-    .content-wrapper h2 {
-        font-size: 1.7rem;
+    /* Blog entry container */
+    .blog-entry {
+        margin-bottom: 2rem;
+        padding: 1rem;
+        background-color: rgba(91, 126, 95, 0.05);
+        border-radius: 4px;
+    }
+    
+    .blog-entry h2 {
+        margin-top: 0;
+        font-size: 1.4rem;
         color: var(--secondary-color);
-        margin: 2rem 0 1rem;
-        font-weight: 500;
-        border-bottom: 1px solid rgba(216, 185, 118, 0.3);
-        padding-bottom: 0.5rem;
+        border-bottom: none;
+        padding-bottom: 0;
     }
     
-    /* Paragraphs */
-    .content-wrapper p {
-        font-size: 1.1rem;
-        margin-bottom: 1.5rem;
-        text-align: justify;
-    }
-    
-    /* Lists */
-    .content-wrapper ul {
-        margin-bottom: 1.5rem;
-        padding-left: 1.2rem;
-    }
-    
-    .content-wrapper li {
+    .blog-entry .post-meta {
+        font-style: italic;
+        color: var(--secondary-color);
         margin-bottom: 0.5rem;
     }
     
-    /* Emphasis */
-    .content-wrapper strong,
+    .blog-entry .highlights {
+        margin-top: 0.5rem;
+    }
+    
+    .blog-entry .highlights li {
+        margin-bottom: 0.5rem;
+        position: relative;
+        padding-left: 1.2rem;
+        list-style-type: none;
+    }
+    
+    .blog-entry .highlights li::before {
+        content: "•";
+        color: var(--accent-color);
+        font-weight: bold;
+        position: absolute;
+        left: 0;
+    }
+    
+    /* Subtle dividers */
+    .subtle-divider {
+        height: 1px;
+        background: linear-gradient(to right, transparent, #e0e0e0, transparent);
+        margin: 2rem 0;
+        border: none;
+    }
+    
+    /* Read More link */
+    .read-more {
+        display: inline-block;
+        color: var(--secondary-color);
+        text-decoration: none;
+        font-weight: 600;
+        margin-top: 0.5rem;
+    }
+    
+    .read-more:hover {
+        text-decoration: underline;
+    }
+    
+    /* Emphasis and key terms */
+    .content-wrapper strong, 
     .content-wrapper b {
         color: var(--secondary-color);
         font-weight: 600;
     }
     
-    .content-wrapper em,
+    .content-wrapper em, 
     .content-wrapper i {
         color: var(--primary-color);
         font-style: italic;
@@ -82,44 +117,45 @@ nav_exclude: true
 </style>
 
 <div class="content-wrapper">
-  <h1>The Environmental Archaeology Heuristic (EAH)</h1>
-  <p>
-    <strong>A Multi-Scalar Temporal and Spatial Framework for Evaluating Human-Environmental Adaptive Strategies</strong>
-  </p>
-  
-  <p>
-    The Environmental Archaeology Heuristic (EAH) is a comprehensive framework designed to evaluate how human societies have adapted to changing environmental conditions over time and across different geographic scales. By integrating temporal and spatial data with archaeological, paleoenvironmental, and ethnographic evidence, the EAH approach seeks to uncover patterns of adaptation, resilience, and innovation in human-environment interactions.
-  </p>
-  
-  <h2>Overview</h2>
-  <p>
-    At its core, the EAH framework combines multiple lines of evidence to produce a multi-scalar perspective on past human adaptations. It recognizes that human-environment interactions are complex and that adaptive strategies must be understood within both local and regional contexts.
-  </p>
-  
-  <h2>Key Components</h2>
-  <ul>
-    <li><strong>Temporal Scale:</strong> Evaluating chronological data to identify changes in environmental conditions and corresponding human responses over time.</li>
-    <li><strong>Spatial Scale:</strong> Mapping and analyzing geographic variations—from local to regional levels—to understand environmental diversity and human adaptation strategies.</li>
-    <li><strong>Adaptive Strategies:</strong> Investigating technological, social, and cultural innovations that enabled communities to respond to environmental challenges.</li>
-    <li><strong>Data Integration:</strong> Combining archaeological records, paleoenvironmental reconstructions, and ethnographic insights to form a holistic view of adaptation.</li>
-  </ul>
-  
-  <h2>Methodology</h2>
-  <p>
-    The EAH framework employs a multi-method approach that includes stratigraphic analysis, Geographic Information Systems (GIS) for spatial mapping, and comparative studies across various archaeological sites. This comprehensive methodology enables researchers to identify both micro-scale adaptations and broader regional trends.
-  </p>
-  
-  <h2>Case Studies and Applications</h2>
-  <p>
-    Early applications of the EAH framework have demonstrated its value in revealing adaptive strategies in the face of climatic shifts, resource scarcity, and ecological pressures. These case studies provide critical insights into how ancient communities developed flexible strategies to secure food, water, and shelter, thereby ensuring their long-term survival.
-  </p>
-  
-  <h2>Implications for Future Research</h2>
-  <p>
-    By offering a structured means to analyze human-environment interactions over extended periods and diverse geographies, the EAH framework not only enriches our understanding of past adaptive strategies but also informs modern approaches to sustainability and resource management. Future research will refine the framework further and extend its application to new regions and contexts.
-  </p>
-  
-  <p>
-    In conclusion, the Environmental Archaeology Heuristic serves as a vital tool in deciphering the complex relationships between human societies and their environments. Its multi-scalar, integrative approach holds promise for both archaeological research and contemporary environmental challenges.
-  </p>
+    <h1>Blog</h1>
+
+    <!-- 1. EAH Post (First Post) -->
+    <div class="blog-entry">
+        <h2>The Environmental Archaeology Heuristic (EAH)</h2>
+        <p class="post-meta">Posted: <em>3-17-25</em></p>
+        <p><em>A Multi-Scalar Temporal and Spatial Framework for Evaluating Human-Environmental Adaptive Strategies</em></p>
+        
+        <div class="highlights">
+            <ul>
+                <li>Introduces a systematic approach for analyzing how human societies adapt to environmental conditions.</li>
+                <li>Focuses on temporal and spatial scales, incorporating archaeological, paleoenvironmental, and ethnographic data.</li>
+                <li>Demonstrates how the EAH framework can reveal patterns of resilience and innovation in past societies.</li>
+            </ul>
+        </div>
+        
+        <!-- Link to full post -->
+        <a href="/blog/the-environmental-archaeology-heuristic/" class="read-more">Read Full Post →</a>
+    </div>
+    
+    <hr class="subtle-divider">
+
+    <!-- 2. Add more blog entries below as needed -->
+    <!-- Example second blog entry: -->
+    <div class="blog-entry">
+        <h2>Another Blog Post Title</h2>
+        <p class="post-meta">Posted: <em>TBA</em></p>
+        <p><em>A short excerpt describing the second blog post.</em></p>
+        
+        <div class="highlights">
+            <ul>
+                <li>Key point or highlight #1</li>
+                <li>Key point or highlight #2</li>
+            </ul>
+        </div>
+        
+        <a href="#" class="read-more">Read Full Post →</a>
+    </div>
+
+    <!-- Add more posts as you like -->
+
 </div>
