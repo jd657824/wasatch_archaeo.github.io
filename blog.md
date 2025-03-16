@@ -2,6 +2,7 @@
 layout: page
 title: "The Environmental Archaeology Heuristic (EAH): A Multi-Scalar Temporal and Spatial Framework for Evaluating Human-Environmental Adaptive Strategies"
 permalink: /blog/the-environmental-archaeology-heuristic/
+nav_exclude: true
 ---
 
 <style>
