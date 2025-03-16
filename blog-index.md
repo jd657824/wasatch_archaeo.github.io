@@ -127,7 +127,7 @@ permalink: /blog-index/
     
     <hr class="subtle-divider">
     
-    <p><strong>Ethnobotanical Data Disclaimer:</strong> <a href="./disclaimer.md" class="read-more">Read Full Post →</a></p>
+    <p><strong>Ethnobotanical Data Disclaimer:</strong> <a href="https://github.com/jd657824/wasatch_archaeo.github.io/blob/main/disclaimer.md" class="read-more">Read Full Post →</a></p>
     
     <hr class="subtle-divider">
     
@@ -145,7 +145,7 @@ permalink: /blog-index/
             </ul>
         </div>
         
-        <a href="./two-eye.md" class="read-more">Read Full Post →</a>
+        <a href="https://github.com/jd657824/wasatch_archaeo.github.io/blob/main/two-eye.md" class="read-more">Read Full Post →</a>
     </div>
     
     <hr class="subtle-divider">
@@ -193,3 +193,10 @@ permalink: /blog-index/
         <div class="highlights">
             <ul>
                 <li>Compares Steward's cultural ecology (multilinear evolution) with Butzer's "archaeology as human ecology".
+                <!-- Additional content here -->
+                </li>
+            </ul>
+        </div>
+    </div>
+    
+</div>
