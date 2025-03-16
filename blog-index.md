@@ -186,6 +186,8 @@ permalink: /blog-index/
                 <li>Draws parallels to environmental anthropology, illustrating how social structures and personal experiences are nested within broader ecological and cultural systems.</li>
             </ul>
         </div>
+
+        <a href="#" class="read-more">Read Full Post →</a>
     </div>
     
     <hr class="subtle-divider">
