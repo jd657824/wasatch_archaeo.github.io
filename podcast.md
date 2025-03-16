@@ -69,8 +69,8 @@ permalink: /podcast/
     <!-- Example placeholders: -->
     
     <p>
-        <strong>Episode 1:</strong> Introduction to My Research Journey<br>
-        <em>In this episode, I discuss the background and motivations behind my research pursuits, including a childhood spent growing up in rural Wyoming.</em>
+        <strong>Episode 1:</strong> TBA<br>
+        <em>TBA</em>
     </p>
     
     <p>
