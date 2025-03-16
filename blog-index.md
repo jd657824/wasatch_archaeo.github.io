@@ -127,7 +127,10 @@ permalink: /blog-index/
     
     <hr class="subtle-divider">
     
-    <p><strong>Ethnobotanical Data Disclaimer:</strong> <a href="https://jd657824.github.io/wasatch_archaeo/disclaimer.html" class="read-more">Read Full Post →</a></p>
+    <p>
+        <strong>Ethnobotanical Data Disclaimer:</strong> 
+        <a href="{{ site.baseurl }}/disclaimer/" class="read-more">Read Full Post →</a>
+    </p>
     
     <hr class="subtle-divider">
     
@@ -145,7 +148,7 @@ permalink: /blog-index/
             </ul>
         </div>
         
-        <a href="https://jd657824.github.io/wasatch_archaeo/two-eye.html" class="read-more">Read Full Post →</a>
+        <a href="{{ site.baseurl }}/two-eye/" class="read-more">Read Full Post →</a>
     </div>
     
     <hr class="subtle-divider">
