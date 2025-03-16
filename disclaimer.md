@@ -1,6 +1,5 @@
 ---
-layout: page
-title: "Indigenous Knowledge Use Disclaimer"
+title: "Ethnobotanical Data Disclaimer"
 permalink: /disclaimer/
 ---
 
