@@ -70,12 +70,12 @@ permalink: /podcast/
     
     <p>
         <strong>Episode 1:</strong> Introduction to My Research Journey<br>
-        <em>In this episode, I discuss the background and motivations behind my research pursuits.</em>
+        <em>In this episode, I discuss the background and motivations behind my research pursuits, including a childhood spent growing up in rural Wyoming.</em>
     </p>
     
     <p>
-        <strong>Episode 2:</strong> Environmental Archaeology, Optimal Foraging Theory, & Niche Construction<br>
-        <em>Exploring how ancient societies shaped and were shaped by their environments.</em>
+        <strong>Episode 2:</strong> TBA <br>
+        <em>TBA</em>
     </p>
     
     <!-- Podcast episodes or embedded player -->
