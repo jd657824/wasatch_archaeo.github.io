@@ -124,7 +124,7 @@ permalink: /blog-index/
 
 <div class="content-wrapper">
     <p>
-        A curated and evolving overview of key topics exploring human-environment relationships—from climatic stationarity to niche construction, from topographic regionalization to cultural ecological frameworks. Use this index as a gateway to dive deeper into each specialized post.
+        Welcome to a curated collection offering background insights into my research. This evolving compendium delves into foundational concepts and theoretical perspectives essential for exploring human–environment relationships. Covering topics from climatic stationarity and niche construction to topographic regionalization and cultural ecological frameworks, each entry provides a critical perspective on the dynamic interplay between people and their surroundings. Use this gateway to dive deeper into each specialized post and enrich your understanding of these complex interconnections.
     </p>
     
     <hr class="subtle-divider">
