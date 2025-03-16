@@ -87,9 +87,9 @@ permalink: /projects/
         Below are select manuscripts currently under review or in the final stages of publication. Each project contributes to a deeper understanding of human-environment relationships and adaptive strategies:
     </p>
     <ul>
-        <li><strong>Manuscript Title 1:</strong> Brief description or abstract excerpt.</li>
-        <li><strong>Manuscript Title 2:</strong> Brief description or abstract excerpt.</li>
-        <li><strong>Manuscript Title 3:</strong> Brief description or abstract excerpt.</li>
+        <li><strong>Manuscript Title 1:</strong> Add brief description or abstract.</li>
+        <li><strong>Manuscript Title 2:</strong> Add brief description or abstract.</li>
+        <li><strong>Manuscript Title 3:</strong> Add brief description or abstract.</li>
     </ul>
     
     <h2>Funded Projects &amp; Ongoing Grants</h2>
@@ -97,8 +97,8 @@ permalink: /projects/
         These projects are currently supported by external funding or are part of ongoing grants. They demonstrate the recognition and support of the academic community for innovative research in human-environment interactions:
     </p>
     <ul>
-        <li><strong>Grant Project Title 1:</strong> A short description of the funded project, including the grant agency and objectives.</li>
-        <li><strong>Grant Project Title 2:</strong> A short description of the funded project, including details on the research focus and outcomes expected.</li>
+        <li><strong>Grant Project Title 1:</strong> Description of funded project; include the grant agency and objectives.</li>
+        <li><strong>Grant Project Title 2:</strong> Description of funded project; include the grant agency and objectives.</li>
     </ul>
     
     <h2>Research in Development &amp; Collaboration Opportunities</h2>
