@@ -65,7 +65,7 @@ permalink: /podcast/
         Welcome to my podcast page! Here, you’ll find updates, episodes, and insights. Feel free to browse through the latest episodes below.
     </p>
     
-    <!-- You could list your podcast episodes or embed a podcast player here -->
+    <!-- Podcast episodes or embed a podcast player here -->
     <!-- Example placeholders: -->
     
     <p>
@@ -74,9 +74,9 @@ permalink: /podcast/
     </p>
     
     <p>
-        <strong>Episode 2:</strong> Environmental Archaeology & Niche Construction<br>
+        <strong>Episode 2:</strong> Environmental Archaeology, Optimal Foraging Theory, & Niche Construction<br>
         <em>Exploring how ancient societies shaped and were shaped by their environments.</em>
     </p>
     
-    <!-- Add more podcast episodes or embedded players as needed -->
+    <!-- Podcast episodes or embedded player -->
 </div>
