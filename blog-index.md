@@ -128,7 +128,7 @@ permalink: /blog-index/
         <li>Emphasizes mutual respect and dynamic integration rather than a uniform perspective.</li>
       </ul>
     </div>
-    <a href="/wasatch_archaeo.github.io/2025/02/28/two-eyed-seeing-etuaptmumk-tek" class="read-more">Read Full Post →</a>
+    <a href="/wasatch_archaeo.github.io/two-eye/" class="read-more">Read Full Post →</a>
   </div>
   
   <hr class="subtle-divider">
@@ -138,7 +138,7 @@ permalink: /blog-index/
     <h2>Ethnobotanical Data Disclaimer</h2>
     <p class="post-meta">Posted: [TBA]</p>
     <p><em>Important information regarding the use of ethnobotanical data.</em></p>
-    <a href="/wasatch_archaeo.github.io/disclaimer" class="read-more">Read Full Post →</a>
+    <a href="/wasatch_archaeo.github.io/disclaimer/" class="read-more">Read Full Post →</a>
   </div>
   
   <hr class="subtle-divider">
@@ -155,7 +155,7 @@ permalink: /blog-index/
         <li>Explores how bridging Traditional Ecological Knowledge with scientific frameworks fosters reconnection and resilience.</li>
       </ul>
     </div>
-    <a href="/wasatch_archaeo.github.io/2025/03/31/cultural-ecological-disconnect" class="read-more">Read Full Post →</a>
+    <a href="/wasatch_archaeo.github.io/cultural-ecological/" class="read-more">Read Full Post →</a>
   </div>
   
 </div>
