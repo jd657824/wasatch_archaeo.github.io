@@ -1,9 +1,7 @@
 title: "Wasatch-Archaeo"
 author: "Jaydee Dolinar, Environmental Archaeologist, Ph.D.-M.S.c, © 2025. All rights reserved."
-description: "Bridging the Cultural–Ecological Divide Through Prehistoric Adaptive Lifeways" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "Bridging the Cultural–Ecological Divide Through Prehistoric Adaptive Lifeways"  # This appears in social sharing
 
-# Email / Social media user names used by the minima theme:
-# All of these are optional and can be removed or commented out
 email: "jd.louis.wy@gmail.com"
 github_username: "jd657824"
 bluesky_username: "@jd657824"
@@ -12,22 +10,19 @@ bluesky_username: "@jd657824"
 #instagram_username: username
 #pinterest_username: username
 #youtube_username: username
-#googleplus_username: +username
+#googleplus_username: username
 
-#########################################################################################
-######### Nothing below needs to be changed (unless you know what you're doing) #########
-#########################################################################################
-# The top part stays the same as your current config
+# For a GitHub user site, baseurl must be empty.
 url: "https://jd657824.github.io"
-baseurl: "/wasatch_archaeo.github.io"
+baseurl: ""
+
 theme: "minima"
 minima:
   skin: null
   social_links:
-    github: yourusername
-    linkedin: yourusername
-    bluesky: yourusername
-# The rest of your config stays the same
+    github: "jd657824"
+    linkedin: "jd657824"
+    bluesky: "jd657824"
 
 header_pages:
   - about.md
@@ -53,6 +48,7 @@ titles_from_headings:
   strip_title: true
   collections: true
 
+# Permalink structure for posts
 permalink: /:year/:month/:day/:title/
 
 defaults:
