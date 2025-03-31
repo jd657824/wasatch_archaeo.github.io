@@ -131,7 +131,7 @@ permalink: /blog-index/
     
     <p>
         <strong>Ethnobotanical Data Disclaimer:</strong> 
-        <a href="{{ site.baseurl }}/disclaimer/" class="read-more">Read Full Post →</a>
+        <a href="/disclaimer/" class="read-more">Read Full Post →</a>
     </p>
     
     <hr class="subtle-divider">
@@ -150,14 +150,14 @@ permalink: /blog-index/
             </ul>
         </div>
         
-        <a href="{{ site.baseurl }}/two-eye/" class="read-more">Read Full Post →</a>
+        <a href="/two-eye/" class="read-more">Read Full Post →</a>
     </div>
     
     <hr class="subtle-divider">
     
     <div class="blog-entry">
         <h2>2. Cultural-Ecological Disconnect</h2>
-        <p class="post-meta">Posted: <em>TBA</em></p>
+        <p class="post-meta">Posted: <em>3-31-25</em></p>
         <p><em>Understanding How We Became Separated from Our Natural Context</em></p>
         
         <div class="highlights">
@@ -168,7 +168,7 @@ permalink: /blog-index/
             </ul>
         </div>
         
-        <a href="#" class="read-more">Read Full Post →</a>
+        <a href="/ecological-disconnect/" class="read-more">Read Full Post →</a>
     </div>
     
     <hr class="subtle-divider">
@@ -187,7 +187,7 @@ permalink: /blog-index/
             </ul>
         </div>
 
-        <a href="#" class="read-more">Read Full Post →</a>
+        <a href="#" class="read-more">Coming Soon</a>
     </div>
     
     <hr class="subtle-divider">
@@ -205,7 +205,7 @@ permalink: /blog-index/
             </ul>
         </div>
         
-        <a href="#" class="read-more">Read Full Post →</a>
+        <a href="#" class="read-more">Coming Soon</a>
     </div>
     
     <hr class="subtle-divider">
@@ -222,6 +222,8 @@ permalink: /blog-index/
                 <li>Links to human behavioral ecology in subsistence and social structures.</li>
             </ul>
         </div>
+        
+        <a href="#" class="read-more">Coming Soon</a>
     </div>
     
     <hr class="subtle-divider">
@@ -239,7 +241,7 @@ permalink: /blog-index/
             </ul>
         </div>
         
-        <a href="#" class="read-more">Read Full Post →</a>
+        <a href="#" class="read-more">Coming Soon</a>
     </div>
     
     <hr class="subtle-divider">
@@ -257,7 +259,7 @@ permalink: /blog-index/
             </ul>
         </div>
         
-        <a href="#" class="read-more">Read Full Post →</a>
+        <a href="#" class="read-more">Coming Soon</a>
     </div>
     
     <hr class="subtle-divider">
@@ -275,7 +277,7 @@ permalink: /blog-index/
             </ul>
         </div>
         
-        <a href="#" class="read-more">Read Full Post →</a>
+        <a href="#" class="read-more">Coming Soon</a>
     </div>
     
     <hr class="subtle-divider">
@@ -293,7 +295,7 @@ permalink: /blog-index/
             </ul>
         </div>
         
-        <a href="#" class="read-more">Read Full Post →</a>
+        <a href="#" class="read-more">Coming Soon</a>
     </div>
     
     <hr class="subtle-divider">
@@ -311,7 +313,7 @@ permalink: /blog-index/
             </ul>
         </div>
         
-        <a href="#" class="read-more">Read Full Post →</a>
+        <a href="#" class="read-more">Coming Soon</a>
     </div>
     
     <hr class="subtle-divider">
@@ -329,7 +331,7 @@ permalink: /blog-index/
             </ul>
         </div>
         
-        <a href="#" class="read-more">Read Full Post →</a>
+        <a href="#" class="read-more">Coming Soon</a>
     </div>
     
     <hr class="subtle-divider">
@@ -347,6 +349,6 @@ permalink: /blog-index/
             </ul>
         </div>
         
-        <a href="#" class="read-more">Read Full Post →</a>
+        <a href="#" class="read-more">Coming Soon</a>
     </div>
 </div>
