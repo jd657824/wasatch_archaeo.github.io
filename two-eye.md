@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Two-Eyed Seeing"
 permalink: /two-eye/
 ---
