@@ -117,7 +117,7 @@ permalink: /blog-index/
   
   <!-- Two-Eyed Seeing Page -->
   <div class="blog-entry">
-    <h2><a href="../two-eye.html" class="read-more">Two-Eyed Seeing</a></h2>
+    <h2>Two-Eyed Seeing</h2>
     <p class="post-meta">Posted: 2-25-25</p>
     <p><em>Integrating Indigenous and Western Knowledge Systems</em></p>
     <div class="highlights">
@@ -128,24 +128,24 @@ permalink: /blog-index/
         <li>Emphasizes mutual respect and dynamic integration rather than a uniform perspective.</li>
       </ul>
     </div>
-    <a href="../two-eye.html" class="read-more">Read Full Post →</a>
+    <a href="/wasatch_archaeo.github.io/two-eye/" class="read-more">Read Full Post →</a>
   </div>
   
   <hr class="subtle-divider">
   
   <!-- Ethnobotanical Data Disclaimer Page -->
   <div class="blog-entry">
-    <h2><a href="../disclaimer.html" class="read-more">Ethnobotanical Data Disclaimer</a></h2>
+    <h2>Ethnobotanical Data Disclaimer</h2>
     <p class="post-meta">Posted: [TBA]</p>
     <p><em>Important information regarding the use of ethnobotanical data.</em></p>
-    <a href="../disclaimer.html" class="read-more">Read Full Post →</a>
+    <a href="/wasatch_archaeo.github.io/disclaimer/" class="read-more">Read Full Post →</a>
   </div>
   
   <hr class="subtle-divider">
   
   <!-- Cultural-Ecological Disconnect Page -->
   <div class="blog-entry">
-    <h2><a href="../cultural-ecological.html" class="read-more">Cultural-Ecological Disconnect</a></h2>
+    <h2>Cultural-Ecological Disconnect</h2>
     <p class="post-meta">Posted: 3-31-25</p>
     <p><em>Understanding How We Became Separated from Our Natural Context</em></p>
     <div class="highlights">
@@ -155,7 +155,7 @@ permalink: /blog-index/
         <li>Explores how bridging Traditional Ecological Knowledge with scientific frameworks fosters reconnection and resilience.</li>
       </ul>
     </div>
-    <a href="../cultural-ecological.html" class="read-more">Read Full Post →</a>
+    <a href="/wasatch_archaeo.github.io/cultural-ecological/" class="read-more">Read Full Post →</a>
   </div>
   
 </div>
