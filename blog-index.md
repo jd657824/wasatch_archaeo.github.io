@@ -100,19 +100,12 @@ permalink: /blog-index/
       text-decoration: none;
       font-weight: 600;
       margin-top: 0.5rem;
-      cursor: pointer;
   }
   
   .read-more:hover {
       text-decoration: underline;
   }
 </style>
-
-<script>
-  function navigateTo(url) {
-    document.location.href = url;
-  }
-</script>
 
 <div class="content-wrapper">
   <p>
@@ -134,7 +127,7 @@ permalink: /blog-index/
         <li>Emphasizes mutual respect and dynamic integration rather than a uniform perspective.</li>
       </ul>
     </div>
-    <button onclick="navigateTo('https://jd657824.github.io/wasatch_archaeo.github.io/two-eye/')" class="read-more" style="background: none; border: none; padding: 0; margin: 0; font: inherit;">Read Full Post →</button>
+    <a href="/wasatch_archaeo.github.io/two-eye/" class="read-more">Read Full Post →</a>
   </div>
   
   <hr class="subtle-divider">
@@ -144,7 +137,7 @@ permalink: /blog-index/
     <h2>Ethnobotanical Data Disclaimer</h2>
     <p class="post-meta">Posted: [TBA]</p>
     <p><em>Important information regarding the use of ethnobotanical data.</em></p>
-    <button onclick="navigateTo('https://jd657824.github.io/wasatch_archaeo.github.io/disclaimer/')" class="read-more" style="background: none; border: none; padding: 0; margin: 0; font: inherit;">Read Full Post →</button>
+    <a href="/wasatch_archaeo.github.io/disclaimer/" class="read-more">Read Full Post →</a>
   </div>
   
   <hr class="subtle-divider">
@@ -161,7 +154,7 @@ permalink: /blog-index/
         <li>Explores how bridging Traditional Ecological Knowledge with scientific frameworks fosters reconnection and resilience.</li>
       </ul>
     </div>
-    <button onclick="navigateTo('https://jd657824.github.io/wasatch_archaeo.github.io/cultural-ecological/')" class="read-more" style="background: none; border: none; padding: 0; margin: 0; font: inherit;">Read Full Post →</button>
+    <a href="/wasatch_archaeo.github.io/cultural-ecological/" class="read-more">Read Full Post →</a>
   </div>
   
 </div>
