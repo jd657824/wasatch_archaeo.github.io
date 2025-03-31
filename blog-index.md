@@ -5,7 +5,6 @@ permalink: /blog-index/
 ---
 
 <style>
-    /* CSS remains the same - omitted for brevity */
     /* Hide auto-generated heading */
     h1.post-title, h1.page-title, header.post-header h1 {
         display: none !important;
@@ -132,7 +131,7 @@ permalink: /blog-index/
     
     <p>
         <strong>Ethnobotanical Data Disclaimer:</strong> 
-        <a href="disclaimer.html" class="read-more">Read Full Post →</a>
+        <a href="/disclaimer/" class="read-more">Read Full Post →</a>
     </p>
     
     <hr class="subtle-divider">
@@ -151,7 +150,7 @@ permalink: /blog-index/
             </ul>
         </div>
         
-        <a href="two-eye.html" class="read-more">Read Full Post →</a>
+        <a href="/two-eye/" class="read-more">Read Full Post →</a>
     </div>
     
     <hr class="subtle-divider">
@@ -169,9 +168,187 @@ permalink: /blog-index/
             </ul>
         </div>
         
-        <a href="ecological-disconnect.html" class="read-more">Read Full Post →</a>
+        <a href="/ecological-disconnect/" class="read-more">Read Full Post →</a>
     </div>
     
-    <!-- Remaining entries stay the same but use the same linking pattern -->
-    <!-- Other blog entries omitted for brevity -->
+    <hr class="subtle-divider">
+    
+    <div class="blog-entry">
+        <h2>3. Bronfenbrenner's Bioecological Model</h2>
+        <p class="post-meta">Posted: <em>TBA</em></p>
+        <p><em>Understanding Human Development Through the PPCT Lens</em></p>
+        
+        <div class="highlights">
+            <ul>
+                <li>Introduces Urie Bronfenbrenner's bioecological model, highlighting the <strong>Process-Person-Context-Time (PPCT)</strong> framework.</li>
+                <li>Explains how <strong>microsystems, mesosystems, exosystems, and macrosystems</strong> shape individual growth within an ecological context.</li>
+                <li>Emphasizes <strong>process</strong> (reciprocal interactions), <strong>person</strong> (individual characteristics), <strong>context</strong> (environmental layers), and <strong>time</strong> (temporal shifts) as interconnected factors.</li>
+                <li>Draws parallels to environmental anthropology, illustrating how social structures and personal experiences are nested within broader ecological and cultural systems.</li>
+            </ul>
+        </div>
+
+        <a href="#" class="read-more">Coming Soon</a>
+    </div>
+    
+    <hr class="subtle-divider">
+    
+    <div class="blog-entry">
+        <h2>4. Julian Steward and Karl Butzer</h2>
+        <p class="post-meta">Posted: <em>TBA</em></p>
+        <p><em>Where Cultural Ecology Meets Archaeology as Human Ecology</em></p>
+        
+        <div class="highlights">
+            <ul>
+                <li>Compares Steward's cultural ecology (multilinear evolution) with Butzer's "archaeology as human ecology".</li>
+                <li>Discusses Butzer's five critical dynamics (environment, technology, economy, social organization, ideology).</li>
+                <li>Highlights environment-culture feedback loops and the importance of holistic, long-term perspectives.</li>
+            </ul>
+        </div>
+        
+        <a href="#" class="read-more">Coming Soon</a>
+    </div>
+    
+    <hr class="subtle-divider">
+    
+    <div class="blog-entry">
+        <h2>5. Behavioral Ecology</h2>
+        <p class="post-meta">Posted: <em>TBA</em></p>
+        <p><em>Understanding How Organisms Adapt Their Behaviors to Environmental Challenges</em></p>
+        
+        <div class="highlights">
+            <ul>
+                <li>Explores cost-benefit analyses in foraging, mate selection, and social dynamics.</li>
+                <li>Details inclusive fitness, evolutionary stable strategies (ESS), and how these shape populations.</li>
+                <li>Links to human behavioral ecology in subsistence and social structures.</li>
+            </ul>
+        </div>
+        
+        <a href="#" class="read-more">Coming Soon</a>
+    </div>
+    
+    <hr class="subtle-divider">
+    
+    <div class="blog-entry">
+        <h2>6. Optimal Foraging Theory</h2>
+        <p class="post-meta">Posted: <em>TBA</em></p>
+        <p><em>Understanding How Organisms Maximize Energy Gain in Their Environments</em></p>
+        
+        <div class="highlights">
+            <ul>
+                <li>Introduces key concepts: energy maximization, search/handling times, Marginal Value Theorem.</li>
+                <li>Applications in archaeology (diet reconstruction, settlement patterns) and ecology (animal foraging).</li>
+                <li>Addresses critiques involving social, cultural, and spiritual factors in resource decisions.</li>
+            </ul>
+        </div>
+        
+        <a href="#" class="read-more">Coming Soon</a>
+    </div>
+    
+    <hr class="subtle-divider">
+    
+    <div class="blog-entry">
+        <h2>7. Niche Construction Theory</h2>
+        <p class="post-meta">Posted: <em>TBA</em></p>
+        <p><em>How Organisms Actively Shape Their Environments</em></p>
+        
+        <div class="highlights">
+            <ul>
+                <li>Positions evolution as a two-way street: species adapt to environments while also modifying them.</li>
+                <li>Discusses examples from beavers to ancient agriculturalists, showing ecosystem engineering.</li>
+                <li>Examines cultural dimensions of human-driven niche construction and implications for sustainability.</li>
+            </ul>
+        </div>
+        
+        <a href="#" class="read-more">Coming Soon</a>
+    </div>
+    
+    <hr class="subtle-divider">
+    
+    <div class="blog-entry">
+        <h2>8. Climatic Stationarity</h2>
+        <p class="post-meta">Posted: <em>TBA</em></p>
+        <p><em>Why the Past Is (Mostly) No Longer a Reliable Guide</em></p>
+        
+        <div class="highlights">
+            <ul>
+                <li>Explains the end of stationarity under climate change, with shifting extremes and feedback loops.</li>
+                <li>Looks at water management impacts and planning challenges.</li>
+                <li>Encourages adaptive strategies, real-time data collection, and scenario-based approaches.</li>
+            </ul>
+        </div>
+        
+        <a href="#" class="read-more">Coming Soon</a>
+    </div>
+    
+    <hr class="subtle-divider">
+    
+    <div class="blog-entry">
+        <h2>9. Topographic Regionalization</h2>
+        <p class="post-meta">Posted: <em>TBA</em></p>
+        <p><em>How Landscapes Shape Cultural-Ecological Patterns</em></p>
+        
+        <div class="highlights">
+            <ul>
+                <li>Defines topographic regionalization—dividing areas based on landforms and geomorphology.</li>
+                <li>Illustrates how altitude, slope, and orientation influence microclimates and biodiversity.</li>
+                <li>Features southwestern Wyoming as an example, showcasing mountain-valley environmental gradients.</li>
+            </ul>
+        </div>
+        
+        <a href="#" class="read-more">Coming Soon</a>
+    </div>
+    
+    <hr class="subtle-divider">
+    
+    <div class="blog-entry">
+        <h2>10. Floral and Faunal Refugia</h2>
+        <p class="post-meta">Posted: <em>TBA</em></p>
+        <p><em>Where Biodiversity Finds Shelter in Changing Climates</em></p>
+        
+        <div class="highlights">
+            <ul>
+                <li>Introduces refugia as local havens sustaining species during climatic upheavals.</li>
+                <li>Offers examples (glacial refugia, montane forests, riparian corridors) and modern conservation needs.</li>
+                <li>Argues for targeted protection and corridor connectivity to preserve biodiversity.</li>
+            </ul>
+        </div>
+        
+        <a href="#" class="read-more">Coming Soon</a>
+    </div>
+    
+    <hr class="subtle-divider">
+    
+    <div class="blog-entry">
+        <h2>11. Cultural-Ecological Disconnect and Maize</h2>
+        <p class="post-meta">Posted: <em>TBA</em></p>
+        <p><em>When a Promising Resource Becomes an Incompatible Prey</em></p>
+        
+        <div class="highlights">
+            <ul>
+                <li>Focuses on the Basin-Plateau region, analyzing how maize agriculture clashed with arid environments.</li>
+                <li>Tracks how initial benefits eventually gave way to ecological mismatches.</li>
+                <li>Draws parallels to modern monocultures reliant on fragile, water-intensive systems.</li>
+            </ul>
+        </div>
+        
+        <a href="#" class="read-more">Coming Soon</a>
+    </div>
+    
+    <hr class="subtle-divider">
+    
+    <div class="blog-entry">
+        <h2>12. Southwestern Wyoming's Ecological Mosaic</h2>
+        <p class="post-meta">Posted: <em>TBA</em></p>
+        <p><em>Uniting Climatic Drivers, Stationarity, Topographic Regionalization, and Refugia</em></p>
+        
+        <div class="highlights">
+            <ul>
+                <li>Explains how late Holocene conditions underlie today's semi-arid to montane ecosystems.</li>
+                <li>Details ENSO influences, partial stationarity, and dramatic topographic variations.</li>
+                <li>Emphasizes the role of refugia and integrated land management for long-term resilience.</li>
+            </ul>
+        </div>
+        
+        <a href="#" class="read-more">Coming Soon</a>
+    </div>
 </div>
