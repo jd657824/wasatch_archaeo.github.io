@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Foundational Concepts & Theoretical Insights"
-permalink: /blog-index.html
+permalink: /blog-index/
 ---
 
 <style>
@@ -116,7 +116,7 @@ permalink: /blog-index.html
   
   <!-- Two-Eyed Seeing Page -->
   <div class="blog-entry">
-    <h2><a href="/two-eye.html">Two-Eyed Seeing</a></h2>
+    <h2><a href="/blog/two-eye/">Two-Eyed Seeing</a></h2>
     <p class="post-meta">Posted: 2-25-25</p>
     <p><em>Integrating Indigenous and Western Knowledge Systems</em></p>
     <div class="highlights">
@@ -127,24 +127,24 @@ permalink: /blog-index.html
         <li>Emphasizes mutual respect and dynamic integration rather than a uniform perspective.</li>
       </ul>
     </div>
-    <a href="/two-eye.html" class="read-more">Read Full Post →</a>
+    <a href="/blog/two-eye/" class="read-more">Read Full Post →</a>
   </div>
   
   <hr class="subtle-divider">
   
   <!-- Ethnobotanical Data Disclaimer Page -->
   <div class="blog-entry">
-    <h2><a href="/disclaimer.html">Ethnobotanical Data Disclaimer</a></h2>
+    <h2><a href="/blog/disclaimer/">Ethnobotanical Data Disclaimer</a></h2>
     <p class="post-meta">Posted: [TBA]</p>
     <p><em>Important information regarding the use of ethnobotanical data.</em></p>
-    <a href="/disclaimer.html" class="read-more">Read Full Post →</a>
+    <a href="/blog/disclaimer/" class="read-more">Read Full Post →</a>
   </div>
   
   <hr class="subtle-divider">
   
   <!-- Cultural-Ecological Disconnect Page -->
   <div class="blog-entry">
-    <h2><a href="/cultural-ecological.html">Cultural-Ecological Disconnect</a></h2>
+    <h2><a href="/blog/cultural-ecological/">Cultural-Ecological Disconnect</a></h2>
     <p class="post-meta">Posted: 3-31-25</p>
     <p><em>Understanding How We Became Separated from Our Natural Context</em></p>
     <div class="highlights">
@@ -154,7 +154,7 @@ permalink: /blog-index.html
         <li>Explores how bridging Traditional Ecological Knowledge with scientific frameworks fosters reconnection and resilience.</li>
       </ul>
     </div>
-    <a href="/cultural-ecological.html" class="read-more">Read Full Post →</a>
+    <a href="/blog/cultural-ecological/" class="read-more">Read Full Post →</a>
   </div>
   
 </div>
