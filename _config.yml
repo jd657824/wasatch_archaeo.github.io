@@ -66,6 +66,7 @@ defaults:
       type: "pages"
     values:
       layout: "page"
+      permalink: /:basename/
   - scope:
       path: "feed.xml"
     values:
