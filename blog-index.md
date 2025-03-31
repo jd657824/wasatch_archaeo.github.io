@@ -1,94 +1,160 @@
-Again, why do the links work on this page but still not on the blog-index: ---
+---
 layout: page
-title: ""
-permalink: /
+title: "Foundational Concepts & Theoretical Insights"
+permalink: /blog-index/
 ---
 
 <style>
-    /* Text-only styling that preserves existing navigation and footer */
-    :root {
-        --primary-color: #5b7e5f;
-        --secondary-color: #8a6552;
-        --accent-color: #d8b976;
-        --light-bg: #f8f8f5;
-        --dark-text: #333333;
-    }
-    
-    /* Main content styles only */
-    .content-wrapper {
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        line-height: 1.7;
-        color: var(--dark-text);
-        max-width: 900px;
-        margin: 0 auto;
-        padding: 0 20px;
-    }
-    
-    /* Content headings */
-    .content-wrapper h2 {
-        font-size: 1.7rem;
-        color: var(--secondary-color);
-        margin: 2.2rem 0 1.2rem;
-        font-weight: 500;
-    }
-    
-    .content-wrapper h3 {
-        font-size: 1.35rem;
-        color: var(--primary-color);
-        margin: 1.8rem 0 1rem;
-        font-weight: 500;
-    }
-    
-    /* Paragraph styling */
-    .content-wrapper p {
-        margin-bottom: 1.2rem;
-        font-size: 1.05rem;
-        line-height: 1.7;
-        text-align: justify;
-    }
-    
-    /* Links styling */
-    .content-wrapper a {
-        color: var(--primary-color);
-        text-decoration: none;
-        border-bottom: 1px solid var(--accent-color);
-        transition: color 0.2s, border-color 0.2s;
-        font-weight: 500;
-    }
-    
-    .content-wrapper a:hover {
-        color: var(--secondary-color);
-        border-color: var(--secondary-color);
-    }
-    
-    /* Image styling */
-    .content-wrapper img {
-        display: block;
-        max-width: 100%;
-        height: auto;
-        margin: 2rem auto;
-        border-radius: 4px;
-        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-    }
+  /* Hide auto-generated heading */
+  h1.post-title, h1.page-title, header.post-header h1 {
+      display: none !important;
+  }
+  
+  /* Color Palette */
+  :root {
+      --primary-color: #5b7e5f;
+      --secondary-color: #8a6552;
+      --accent-color: #d8b976;
+      --light-bg: #f8f8f5;
+      --dark-text: #333333;
+  }
+  
+  /* Main content styles */
+  .content-wrapper {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      line-height: 1.7;
+      color: var(--dark-text);
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 0 20px;
+  }
+  
+  /* Introduction paragraph */
+  .content-wrapper > p {
+      font-size: 1.1rem;
+      margin-bottom: 1.5rem;
+      text-align: justify;
+  }
+  
+  /* Content headings */
+  .content-wrapper h2 {
+      font-size: 1.7rem;
+      color: var(--secondary-color);
+      margin: 2.2rem 0 1.2rem;
+      font-weight: 500;
+      border-bottom: 1px solid rgba(216, 185, 118, 0.3);
+      padding-bottom: 0.5rem;
+  }
+  
+  /* Blog post (page) entry */
+  .blog-entry {
+      margin-bottom: 2rem;
+      padding: 1rem;
+      background-color: rgba(91, 126, 95, 0.05);
+      border-radius: 4px;
+  }
+  
+  .blog-entry h2 {
+      margin-top: 0;
+      font-size: 1.4rem;
+      color: var(--secondary-color);
+  }
+  
+  .blog-entry .post-meta {
+      font-style: italic;
+      color: var(--secondary-color);
+      margin-bottom: 0.5rem;
+  }
+  
+  .blog-entry .highlights {
+      margin-top: 0.5rem;
+  }
+  
+  .blog-entry .highlights li {
+      margin-bottom: 0.5rem;
+      position: relative;
+      padding-left: 1.2rem;
+      list-style-type: none;
+  }
+  
+  .blog-entry .highlights li::before {
+      content: "•";
+      color: var(--accent-color);
+      font-weight: bold;
+      position: absolute;
+      left: 0;
+  }
+  
+  /* Subtle section dividers */
+  .subtle-divider {
+      height: 1px;
+      background: linear-gradient(to right, transparent, #e0e0e0, transparent);
+      margin: 2rem 0;
+      border: none;
+  }
+  
+  /* Read More link */
+  .read-more {
+      display: inline-block;
+      color: var(--secondary-color);
+      text-decoration: none;
+      font-weight: 600;
+      margin-top: 0.5rem;
+  }
+  
+  .read-more:hover {
+      text-decoration: underline;
+  }
 </style>
 
 <div class="content-wrapper">
-    <img src="./images/IMG_0081.jpeg" alt="Description of image" style="width: 400px; max-width: 100%; height: auto;">
-    
-    <p>
-        Welcome to my personal research blog—a scholarly space dedicated to sharing insights from fieldwork, research perspectives, and rigorous explorations of both theoretical constructs and imaginative inquiries. My aim is not only to confront the unknown but also to present these challenges in an accessible manner, enabling diverse audiences to engage with and comprehend the intricate dynamics of our Earth system and the extraordinary adaptive strategies that have sustained human societies throughout time.
-    </p>
-    
-    <p>
-        <a href="/wasatch_archaeo.github.io/blog-index/">
-            Start Here: Foundational Concepts &amp; Theoretical Insights
-        </a>
-    </p>
-    
-    <!-- New link to the blog page -->
-    <p>
-        <a href="/wasatch_archaeo.github.io/blog/">
-            Visit the Blog
-        </a>
-    </p>
+  <p>
+    Welcome to a curated collection offering background insights into my research. This evolving compendium delves into foundational concepts and theoretical perspectives essential for exploring human–environment relationships.
+  </p>
+  
+  <hr class="subtle-divider">
+  
+  <!-- Two-Eyed Seeing Page -->
+  <div class="blog-entry">
+    <h2><a href="{{ site.baseurl }}/blog/two-eye/" class="read-more">Two-Eyed Seeing</a></h2>
+    <p class="post-meta">Posted: 2-25-25</p>
+    <p><em>Integrating Indigenous and Western Knowledge Systems</em></p>
+    <div class="highlights">
+      <ul>
+        <li>Presents the concept of <em>Etuaptmumk</em> ("Two-Eyed Seeing"), introduced by Mi'kmaw Elder Albert Marshall.</li>
+        <li>Encourages viewing the world through two distinct yet complementary lenses—Traditional Ecological Knowledge and Western science.</li>
+        <li>Shows how bridging these perspectives leads to deeper insights and collaborative research approaches.</li>
+        <li>Emphasizes mutual respect and dynamic integration rather than a uniform perspective.</li>
+      </ul>
+    </div>
+    <a href="{{ site.baseurl }}/blog/two-eye/" class="read-more">Read Full Post →</a>
+  </div>
+  
+  <hr class="subtle-divider">
+  
+  <!-- Ethnobotanical Data Disclaimer Page -->
+  <div class="blog-entry">
+    <h2><a href="{{ site.baseurl }}/blog/disclaimer/" class="read-more">Ethnobotanical Data Disclaimer</a></h2>
+    <p class="post-meta">Posted: [TBA]</p>
+    <p><em>Important information regarding the use of ethnobotanical data.</em></p>
+    <a href="{{ site.baseurl }}/blog/disclaimer/" class="read-more">Read Full Post →</a>
+  </div>
+  
+  <hr class="subtle-divider">
+  
+  <!-- Cultural-Ecological Disconnect Page -->
+  <div class="blog-entry">
+    <h2><a href="{{ site.baseurl }}/blog/cultural-ecological/" class="read-more">Cultural-Ecological Disconnect</a></h2>
+    <p class="post-meta">Posted: 3-31-25</p>
+    <p><em>Understanding How We Became Separated from Our Natural Context</em></p>
+    <div class="highlights">
+      <ul>
+        <li>Defines the "cultural-ecological disconnect" and traces its roots in industrialization and colonial expansion.</li>
+        <li>Examines impacts like resource overexploitation, reduced adaptive capacity, and erosion of Indigenous knowledge systems.</li>
+        <li>Explores how bridging Traditional Ecological Knowledge with scientific frameworks fosters reconnection and resilience.</li>
+      </ul>
+    </div>
+    <a href="{{ site.baseurl }}/blog/cultural-ecological/" class="read-more">Read Full Post →</a>
+  </div>
+  
 </div>
