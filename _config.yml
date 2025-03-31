@@ -12,21 +12,21 @@ bluesky_username: "@jd657824"
 #instagram_username: username
 #pinterest_username: username
 #youtube_username: username
-#googleplus_username: username
+#googleplus_username: +username
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 # The top part stays the same as your current config
 url: "https://jd657824.github.io"
-baseurl: ""  # For GitHub user sites, baseurl must be empty
+baseurl: "/wasatch_archaeo.github.io"
 theme: "minima"
 minima:
   skin: null
   social_links:
-    github: "jd657824"
-    linkedin: "jd657824"
-    bluesky: "jd657824"
+    github: yourusername
+    linkedin: yourusername
+    bluesky: yourusername
 # The rest of your config stays the same
 
 header_pages:
