@@ -20,7 +20,6 @@ bluesky_username: "@jd657824"
 # The top part stays the same as your current config
 url: "https://jd657824.github.io"
 baseurl: ""  # For GitHub user sites, baseurl must be empty
-
 theme: "minima"
 minima:
   skin: null
