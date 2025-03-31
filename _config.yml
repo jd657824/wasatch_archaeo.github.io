@@ -54,14 +54,18 @@ titles_from_headings:
   collections: true
 
 permalink: /:year/:month/:day/:title/
-
 defaults:
   - scope:
       path: ""
-    type: post
+      type: "posts"
     values:
+      layout: "post"
       tags: Other
-
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
   - scope:
       path: "feed.xml"
     values:
