@@ -133,72 +133,53 @@ permalink: /about/
 </style>
 
 <div class="content-wrapper">
-    <h2>About the Researcher - Dr. Justin "JD" Dolinar</h2>
-    
-    <hr class="subtle-divider">
-    
-    <p class="researcher-title">Environmental Archaeologist &amp; Human-Environment Co-evolution Specialist</p>
-    
-    <hr class="subtle-divider">
-    
-    <h3>Research Focus</h3>
-    <p>My doctoral research at the University of Utah examined the dynamic interplay between cultural practices and ecological processes throughout the Holocene period in the Intermountain West. This work culminated in the development of the <strong>Environmental Archaeology Heuristic (EAH)</strong>, an innovative framework integrating Optimal Foraging Theory with Niche Construction Theory.</p>
-    
-    <h3>Theoretical Framework</h3>
-    <p>The EAH framework extends Butzer's (1982) "Archaeology as Human Ecology" concept by incorporating Bronfenbrenner's Bioecological Model—specifically its nested, multi-scalar PPCT framework—to enable comprehensive analysis of human-environment interactions across temporal and spatial scales.</p>
-    
-    <div class="highlight-box">
-        <h3>Methodological Approach</h3>
-        <p>My research employs a <strong>Two-Eyed Seeing approach</strong> that synthesizes:</p>
-        <ul>
-            <li>Indigenous Traditional Ecological Knowledge</li>
-            <li>Quantitative Western scientific methodologies</li>
-        </ul>
-        
-        <p>This integration illuminates how prehistoric hunter-gatherers not only optimized immediate resource extraction but actively modified their landscapes to ensure long-term environmental sustainability.</p>
+  <p>
+    Welcome to a curated collection offering background insights into my research. This evolving compendium delves into foundational concepts and theoretical perspectives essential for exploring human–environment relationships.
+  </p>
+  
+  <hr class="subtle-divider">
+  
+  <!-- Two-Eyed Seeing Page -->
+  <div class="blog-entry">
+    <h2><a href="{{ site.baseurl }}/two-eye" class="read-more">Two-Eyed Seeing</a></h2>
+    <p class="post-meta">Posted: 2-25-25</p>
+    <p><em>Integrating Indigenous and Western Knowledge Systems</em></p>
+    <div class="highlights">
+      <ul>
+        <li>Presents the concept of <em>Etuaptmumk</em> ("Two-Eyed Seeing"), introduced by Mi'kmaw Elder Albert Marshall.</li>
+        <li>Encourages viewing the world through two distinct yet complementary lenses—Traditional Ecological Knowledge and Western science.</li>
+        <li>Shows how bridging these perspectives leads to deeper insights and collaborative research approaches.</li>
+        <li>Emphasizes mutual respect and dynamic integration rather than a uniform perspective.</li>
+      </ul>
     </div>
-    
-    <h3>Research Methods</h3>
-    <p>My investigations utilize:</p>
-    <ul>
-        <li>Advanced geospatial analysis</li>
-        <li>Statistical Computation</li>
-        <li>Western North American Archaeological Theory</li>
-        <li>Archaeo- &amp; Ethno-botanical techniques</li>
-        <li>Evolutionary ecology methods</li>
-        <li>Geomorphic &amp; Biogeographic Principles</li>
-    </ul>
-    
-    <p>These approaches support my examination of subsistence-settlement patterns, floral diversity, and phenotypic adaptations—with Utah juniper serving as a key case study.</p>
-    
-    <h3>Impact &amp; Commitment</h3>
-    <p>My work contributes to theoretical discussions on human resilience and sustainability by demonstrating the reciprocal feedbacks between cultural agency and environmental change. I remain committed to advancing interdisciplinary scholarship and fostering collaborative partnerships with Indigenous communities to enrich our collective understanding of past and present human ecological dynamics.</p>
-    
-    <hr class="subtle-divider">
-    
-    <h2>Why Environmental Archaeology?</h2>
-    
-    <p>Environmental archaeology provides a critical lens for understanding the complex, reciprocal relationships between human societies and their environments over time. This discipline transcends traditional archaeological narratives that treat culture and nature as distinct domains, instead emphasizing that human actions—from subsistence practices to land management—are inextricably linked to and co-constitutive of the natural world.</p>
-    
-    <p>The field builds upon Julian Steward's cultural ecology and Butzer's (1982) seminal concept of "Archaeology as Human Ecology." Steward's pioneering work on cultural adaptation to environmental conditions established the foundation for understanding how core cultural features evolve in response to ecological challenges. Butzer expanded this framework by emphasizing the bidirectional relationship—framing human behavior as both responding to and actively shaping environmental processes. Through this ecological lens, researchers identify dynamic feedback loops that sustain or transform ecosystems over millennia. Environmental archaeology further benefits from Bronfenbrenner's Bioecological Model, particularly its nested <span class="key-term">PPCT (Process, Person, Context, Time)</span> framework, enabling multi-scalar analysis of human–environment interactions.</p>
-    
-    <p>This approach moves beyond environmental determinism by recognizing the agency of prehistoric peoples who actively modified landscapes—not merely adapting to existing conditions but engineering environments to enhance resource predictability and resilience. The methodological synergy of advanced geospatial analyses, archaeobotanical studies, and evolutionary ecology enriches our understanding of past subsistence–settlement patterns and the co-evolutionary processes underlying sustainable human–environment systems.</p>
-    
-    <blockquote>
-        Environmental archaeology offers profound insights into strategies underpinning long-term human resilience and sustainability—increasingly relevant as contemporary societies face ecological challenges that echo those of the past.
-    </blockquote>
-    
-    <hr class="subtle-divider">
-    
-    <h2>Why the Intermountain West?</h2>
-    
-    <p>The Intermountain West serves as a natural laboratory for environmental archaeological inquiry, where ecological, cultural, and climatic complexities converge. This region's environmental heterogeneity—encompassing riparian corridors, sagebrush steppes, juniper woodlands, sub-irrigated valleys, and rugged foothills—creates a mosaic of microhabitats that historically sustained diverse subsistence strategies.</p>
-    
-    <p>A defining feature of this landscape is its climatic stationarity punctuated by pronounced variability, exemplified by the western North American late Holocene moisture dipole. This phenomenon created a dynamic interplay between mesic and arid zones, fostering persistent floral and faunal refugia. In mesic areas, abundant water supported stable, productive ecosystems that served as resource-rich havens, while in arid regions, drought-adapted plant and animal communities maintained resilience despite harsh conditions. These refugial zones provided prehistoric populations with reliable resources and critical fallback positions during climatic fluctuations.</p>
-    
-    <p>This climatic complexity drove innovative adaptive strategies among prehistoric groups. In southwestern Wyoming, hunter-gatherers exploited both mesic refugia—capitalizing on predictable plant and animal resources—and arid zones, where specialized adaptations ensured survival under resource-constrained conditions. This duality exemplifies the reciprocal relationship between environmental conditions and human agency that forms a core principle of environmental archaeology.</p>
-    
-    <p>The region's well-documented archaeological record, combined with its inherent ecological diversity, provides crucial insights into the co-evolutionary processes of human–environment interactions. Prehistoric communities actively managed landscapes through practices such as surplus storage, controlled burning, and selective harvesting—practices effectively captured by the <span class="key-term">Environmental Archaeology Heuristic (EAH)</span>.</p>
-    
-    <p>The Intermountain West, with its blend of climatic stationarity, late Holocene moisture gradients, and persistent refugial zones, offers an ideal context for advancing our understanding of sustainability, resilience, and the transformative power of cultural practices on ecological systems.</p>
+    <a href="{{ site.baseurl }}/two-eye" class="read-more">Read Full Post →</a>
+  </div>
+  
+  <hr class="subtle-divider">
+  
+  <!-- Ethnobotanical Data Disclaimer Page -->
+  <div class="blog-entry">
+    <h2><a href="{{ site.baseurl }}/disclaimer" class="read-more">Ethnobotanical Data Disclaimer</a></h2>
+    <p class="post-meta">Posted: [TBA]</p>
+    <p><em>Important information regarding the use of ethnobotanical data.</em></p>
+    <a href="{{ site.baseurl }}/disclaimer" class="read-more">Read Full Post →</a>
+  </div>
+  
+  <hr class="subtle-divider">
+  
+  <!-- Cultural-Ecological Disconnect Page -->
+  <div class="blog-entry">
+    <h2><a href="{{ site.baseurl }}/cultural-ecological" class="read-more">Cultural-Ecological Disconnect</a></h2>
+    <p class="post-meta">Posted: 3-31-25</p>
+    <p><em>Understanding How We Became Separated from Our Natural Context</em></p>
+    <div class="highlights">
+      <ul>
+        <li>Defines the "cultural-ecological disconnect" and traces its roots in industrialization and colonial expansion.</li>
+        <li>Examines impacts like resource overexploitation, reduced adaptive capacity, and erosion of Indigenous knowledge systems.</li>
+        <li>Explores how bridging Traditional Ecological Knowledge with scientific frameworks fosters reconnection and resilience.</li>
+      </ul>
+    </div>
+    <a href="{{ site.baseurl }}/cultural-ecological" class="read-more">Read Full Post →</a>
+  </div>
+  
 </div>
