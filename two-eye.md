@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Two-Eyed Seeing"
-permalink: /two-eye/
+permalink: /two-eye.html
 ---
 
 <style>
