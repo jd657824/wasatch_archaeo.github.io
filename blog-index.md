@@ -106,6 +106,7 @@ permalink: /blog-index/
       text-decoration: underline;
   }
 </style>
+
 <div class="content-wrapper">
   <p>
     Welcome to a curated collection offering background insights into my research. This evolving compendium delves into foundational concepts and theoretical perspectives essential for exploring human–environment relationships.
@@ -126,7 +127,7 @@ permalink: /blog-index/
         <li>Emphasizes mutual respect and dynamic integration rather than a uniform perspective.</li>
       </ul>
     </div>
-    <a href="https://jd657824.github.io/wasatch_archaeo.github.io/two-eye/" class="read-more">Read Full Post →</a>
+    <span onclick="window.location.href='https://jd657824.github.io/wasatch_archaeo.github.io/two-eye/'" class="read-more" style="cursor:pointer">Read Full Post →</span>
   </div>
   
   <hr class="subtle-divider">
@@ -136,7 +137,7 @@ permalink: /blog-index/
     <h2>Ethnobotanical Data Disclaimer</h2>
     <p class="post-meta">Posted: [TBA]</p>
     <p><em>Important information regarding the use of ethnobotanical data.</em></p>
-    <a href="https://jd657824.github.io/wasatch_archaeo.github.io/disclaimer/" class="read-more">Read Full Post →</a>
+    <span onclick="window.location.href='https://jd657824.github.io/wasatch_archaeo.github.io/disclaimer/'" class="read-more" style="cursor:pointer">Read Full Post →</span>
   </div>
   
   <hr class="subtle-divider">
@@ -153,7 +154,7 @@ permalink: /blog-index/
         <li>Explores how bridging Traditional Ecological Knowledge with scientific frameworks fosters reconnection and resilience.</li>
       </ul>
     </div>
-    <a href="https://jd657824.github.io/wasatch_archaeo.github.io/cultural-ecological/" class="read-more">Read Full Post →</a>
+    <span onclick="window.location.href='https://jd657824.github.io/wasatch_archaeo.github.io/cultural-ecological/'" class="read-more" style="cursor:pointer">Read Full Post →</span>
   </div>
   
 </div>
