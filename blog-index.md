@@ -158,7 +158,7 @@ permalink: /blog-index/
     
     <div class="blog-entry">
         <h2>2. Cultural-Ecological Disconnect</h2>
-        <p class="post-meta">Posted: <em>TBA</em></p>
+        <p class="post-meta">Posted: <em>04-01-2025</em></p>
         <p><em>Understanding How We Became Separated from Our Natural Context</em></p>
         
         <div class="highlights">
