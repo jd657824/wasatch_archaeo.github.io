@@ -129,5 +129,4 @@ permalink: /about/
         Thank you for joining me on this journey of exploration and learning. I invite you to explore the various sections of the blog and engage with the content—whether by reaching out to discuss collaboration opportunities or simply by sharing your thoughts.
     </p>
     
-    <p>
 </div>
