@@ -187,7 +187,6 @@ permalink: /blog-index/
             </ul>
         </div>
 
-        <!-- UPDATED link for Bronfenbrenner -->
         <a href="{{ "/bronfenbrenner/" | relative_url }}" class="read-more">Read Full Post →</a>
     </div>
     
@@ -260,11 +259,32 @@ permalink: /blog-index/
         
         <a href="#" class="read-more">Read Full Post →</a>
     </div>
+
+    <!-- NEW ENTRY #8 (Insert here, everything below gets bumped one number) -->
+    <hr class="subtle-divider">
+
+    <div class="blog-entry">
+        <h2>8. Prehistoric Mobility Patterns: Understanding Logistical versus Residential Strategies</h2>
+        <p class="post-meta">Posted: <em>4-03-25</em></p>
+        <p><em>How Hunter-Gatherers Navigated Their Landscapes</em></p>
+        
+        <div class="highlights">
+            <ul>
+                <li>Contrasts two fundamental mobility strategies: residential mobility (moving people to resources) versus logistical mobility (moving resources to people).</li>
+                <li>Examines how different environments shaped mobility decisions, with resource distribution patterns driving which strategy predominated.</li>
+                <li>Details the archaeological signatures of each strategy, from tool assemblages and raw material patterns to site structures and faunal remains.</li>
+                <li>Highlights Late Holocene transitions across Western North America, revealing how groups developed increasingly sophisticated mobility systems in response to environmental and social changes.</li>
+            </ul>
+        </div>
+        
+        <a href="{{ "/prehistoric-mobility/" | relative_url }}" class="read-more">Read Full Post →</a>
+    </div>
     
+    <!-- SHIFT OLD #8 -> #9, #9-> #10, etc. -->
     <hr class="subtle-divider">
     
     <div class="blog-entry">
-        <h2>8. Climatic Stationarity</h2>
+        <h2>9. Climatic Stationarity</h2>
         <p class="post-meta">Posted: <em>TBA</em></p>
         <p><em>Why the Past Is (Mostly) No Longer a Reliable Guide</em></p>
         
@@ -282,7 +302,7 @@ permalink: /blog-index/
     <hr class="subtle-divider">
     
     <div class="blog-entry">
-        <h2>9. Topographic Regionalization</h2>
+        <h2>10. Topographic Regionalization</h2>
         <p class="post-meta">Posted: <em>TBA</em></p>
         <p><em>How Landscapes Shape Cultural-Ecological Patterns</em></p>
         
@@ -300,7 +320,7 @@ permalink: /blog-index/
     <hr class="subtle-divider">
     
     <div class="blog-entry">
-        <h2>10. Floral and Faunal Refugia</h2>
+        <h2>11. Floral and Faunal Refugia</h2>
         <p class="post-meta">Posted: <em>TBA</em></p>
         <p><em>Where Biodiversity Finds Shelter in Changing Climates</em></p>
         
@@ -318,7 +338,7 @@ permalink: /blog-index/
     <hr class="subtle-divider">
     
     <div class="blog-entry">
-        <h2>11. Cultural-Ecological Disconnect and Maize</h2>
+        <h2>12. Cultural-Ecological Disconnect and Maize</h2>
         <p class="post-meta">Posted: <em>TBA</em></p>
         <p><em>When a Promising Resource Becomes an Incompatible Prey</em></p>
         
@@ -336,7 +356,7 @@ permalink: /blog-index/
     <hr class="subtle-divider">
     
     <div class="blog-entry">
-        <h2>12. Southwestern Wyoming's Ecological Mosaic</h2>
+        <h2>13. Southwestern Wyoming's Ecological Mosaic</h2>
         <p class="post-meta">Posted: <em>TBA</em></p>
         <p><em>Uniting Climatic Drivers, Stationarity, Topographic Regionalization, and Refugia</em></p>
         
