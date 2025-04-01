@@ -178,7 +178,7 @@ permalink: /blog-index/
     <!-- #3 Bronfenbrenner's Bioecological Model -->
     <div class="blog-entry">
         <h2>3. Bronfenbrenner's Bioecological Model</h2>
-        <p class="post-meta">Posted: <em>TBA</em></p>
+        <p class="post-meta">Posted: <em>04-01-2025</em></p>
         <p><em>Understanding Human Development Through the PPCT Lens</em></p>
         
         <div class="highlights">
@@ -236,7 +236,7 @@ permalink: /blog-index/
     <!-- #6 Optimal Foraging Theory -->
     <div class="blog-entry">
         <h2>6. Optimal Foraging Theory</h2>
-        <p class="post-meta">Posted: <em>TBA</em></p>
+        <p class="post-meta">Posted: <em>04-01-2025</em></p>
         <p><em>Understanding How Organisms Maximize Energy Gain in Their Environments</em></p>
         
         <div class="highlights">
@@ -255,7 +255,7 @@ permalink: /blog-index/
     <!-- #7 Niche Construction Theory -->
     <div class="blog-entry">
         <h2>7. Niche Construction Theory</h2>
-        <p class="post-meta">Posted: <em>TBA</em></p>
+        <p class="post-meta">Posted: <em>04-01-2025</em></p>
         <p><em>How Organisms Actively Shape Their Environments</em></p>
         
         <div class="highlights">
@@ -274,7 +274,7 @@ permalink: /blog-index/
     <!-- #8 Climatic Stationarity -->
     <div class="blog-entry">
         <h2>8. Climatic Stationarity</h2>
-        <p class="post-meta">Posted: <em>TBA</em></p>
+        <p class="post-meta">Posted: <em>04-01-2025</em></p>
         <p><em>Why the Past Is (Mostly) No Longer a Reliable Guide</em></p>
         
         <div class="highlights">
@@ -312,7 +312,7 @@ permalink: /blog-index/
     <!-- #10 Floral and Faunal Refugia -->
     <div class="blog-entry">
         <h2>10. Floral and Faunal Refugia</h2>
-        <p class="post-meta">Posted: <em>TBA</em></p>
+        <p class="post-meta">Posted: <em>04-01-2025</em></p>
         <p><em>Where Biodiversity Finds Shelter in Changing Climates</em></p>
         
         <div class="highlights">
@@ -331,7 +331,7 @@ permalink: /blog-index/
 
     <div class="blog-entry">
         <h2>11. Prehistoric Mobility Patterns: Understanding Logistical vs. Residential Strategies</h2>
-        <p class="post-meta">Posted: <em>4-03-25</em></p>
+        <p class="post-meta">Posted: <em>4-01-25</em></p>
         <p><em>How Hunter-Gatherers Navigated Their Landscapes</em></p>
         
         <div class="highlights">
@@ -371,7 +371,7 @@ permalink: /blog-index/
 
     <div class="blog-entry">
         <h2>13. Southwestern Wyoming's Ecological Mosaic</h2>
-        <p class="post-meta">Posted: <em>2025-04-01</em></p>
+        <p class="post-meta">Posted: <em>04-01-2025</em></p>
         <p><em>Uniting Climatic Drivers, Stationarity, Topographic Regionalization, and Refugia</em></p>
         
         <div class="highlights">
