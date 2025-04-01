@@ -131,7 +131,6 @@ permalink: /blog-index/
     
     <p>
         <strong>Ethnobotanical Data Disclaimer:</strong> 
-        <!-- Linking to disclaimer -->
         <a href="{{ "/disclaimer/" | relative_url }}" class="read-more">Read Full Post →</a>
     </p>
     
@@ -169,7 +168,6 @@ permalink: /blog-index/
             </ul>
         </div>
         
-        <!-- Updated link: replaced '#' with /cultural-ecological/ -->
         <a href="{{ "/cultural-ecological/" | relative_url }}" class="read-more">Read Full Post →</a>
     </div>
     
@@ -189,7 +187,8 @@ permalink: /blog-index/
             </ul>
         </div>
 
-        <a href="#" class="read-more">Read Full Post →</a>
+        <!-- UPDATED link for Bronfenbrenner -->
+        <a href="{{ "/bronfenbrenner/" | relative_url }}" class="read-more">Read Full Post →</a>
     </div>
     
     <hr class="subtle-divider">
