@@ -371,7 +371,7 @@ permalink: /blog-index/
 
     <div class="blog-entry">
         <h2>13. Southwestern Wyoming's Ecological Mosaic</h2>
-        <p class="post-meta">Posted: <em>TBA</em></p>
+        <p class="post-meta">Posted: <em>2025-04-01</em></p>
         <p><em>Uniting Climatic Drivers, Stationarity, Topographic Regionalization, and Refugia</em></p>
         
         <div class="highlights">
