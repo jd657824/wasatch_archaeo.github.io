@@ -1,6 +1,7 @@
 ---
+layout: page
 title: "Cultural-Ecological Disconnect"
-permalink: /ecological-disconnect/
+permalink: /cultural-ecological-disconnect/
 ---
 
 <style>
