@@ -136,6 +136,7 @@ permalink: /blog-index/
     
     <hr class="subtle-divider">
     
+    <!-- #1 Two-Eyed Seeing -->
     <div class="blog-entry">
         <h2>1. Two-Eyed Seeing</h2>
         <p class="post-meta">Posted: <em>2-25-25</em></p>
@@ -155,6 +156,7 @@ permalink: /blog-index/
     
     <hr class="subtle-divider">
     
+    <!-- #2 Cultural-Ecological Disconnect -->
     <div class="blog-entry">
         <h2>2. Cultural-Ecological Disconnect</h2>
         <p class="post-meta">Posted: <em>04-01-2025</em></p>
@@ -173,6 +175,7 @@ permalink: /blog-index/
     
     <hr class="subtle-divider">
     
+    <!-- #3 Bronfenbrenner's Bioecological Model -->
     <div class="blog-entry">
         <h2>3. Bronfenbrenner's Bioecological Model</h2>
         <p class="post-meta">Posted: <em>TBA</em></p>
@@ -192,6 +195,7 @@ permalink: /blog-index/
     
     <hr class="subtle-divider">
     
+    <!-- #4 Julian Steward and Karl Butzer -->
     <div class="blog-entry">
         <h2>4. Julian Steward and Karl Butzer</h2>
         <p class="post-meta">Posted: <em>TBA</em></p>
@@ -205,11 +209,12 @@ permalink: /blog-index/
             </ul>
         </div>
         
-        <a href="#" class="read-more">Read Full Post →</a>
+        <a href="{{ "/steward-butzer/" | relative_url }}" class="read-more">Read Full Post →</a>
     </div>
     
     <hr class="subtle-divider">
     
+    <!-- #5 Behavioral Ecology -->
     <div class="blog-entry">
         <h2>5. Behavioral Ecology</h2>
         <p class="post-meta">Posted: <em>TBA</em></p>
@@ -222,10 +227,13 @@ permalink: /blog-index/
                 <li>Links to human behavioral ecology in subsistence and social structures.</li>
             </ul>
         </div>
+        
+        <a href="{{ "/behavioral-ecology/" | relative_url }}" class="read-more">Read Full Post →</a>
     </div>
     
     <hr class="subtle-divider">
     
+    <!-- #6 Optimal Foraging Theory -->
     <div class="blog-entry">
         <h2>6. Optimal Foraging Theory</h2>
         <p class="post-meta">Posted: <em>TBA</em></p>
@@ -239,11 +247,12 @@ permalink: /blog-index/
             </ul>
         </div>
         
-        <a href="#" class="read-more">Read Full Post →</a>
+        <a href="{{ "/optimal-foraging/" | relative_url }}" class="read-more">Read Full Post →</a>
     </div>
     
     <hr class="subtle-divider">
     
+    <!-- #7 Niche Construction Theory -->
     <div class="blog-entry">
         <h2>7. Niche Construction Theory</h2>
         <p class="post-meta">Posted: <em>TBA</em></p>
@@ -257,14 +266,12 @@ permalink: /blog-index/
             </ul>
         </div>
         
-        <a href="#" class="read-more">Read Full Post →</a>
+        <a href="{{ "/niche-construction/" | relative_url }}" class="read-more">Read Full Post →</a>
     </div>
 
-    <!-- Remove the old #11 entry: "Cultural-Ecological Disconnect and Maize"
-         Insert "Prehistoric Mobility Patterns" in its place as new #11 -->
-
     <hr class="subtle-divider">
-
+    
+    <!-- #8 Climatic Stationarity -->
     <div class="blog-entry">
         <h2>8. Climatic Stationarity</h2>
         <p class="post-meta">Posted: <em>TBA</em></p>
@@ -278,11 +285,12 @@ permalink: /blog-index/
             </ul>
         </div>
         
-        <a href="#" class="read-more">Read Full Post →</a>
+        <a href="{{ "/climatic-stationarity/" | relative_url }}" class="read-more">Read Full Post →</a>
     </div>
     
     <hr class="subtle-divider">
     
+    <!-- #9 Topographic Regionalization -->
     <div class="blog-entry">
         <h2>9. Topographic Regionalization</h2>
         <p class="post-meta">Posted: <em>TBA</em></p>
@@ -296,11 +304,12 @@ permalink: /blog-index/
             </ul>
         </div>
         
-        <a href="#" class="read-more">Read Full Post →</a>
+        <a href="{{ "/topographic-regionalization/" | relative_url }}" class="read-more">Read Full Post →</a>
     </div>
     
     <hr class="subtle-divider">
     
+    <!-- #10 Floral and Faunal Refugia -->
     <div class="blog-entry">
         <h2>10. Floral and Faunal Refugia</h2>
         <p class="post-meta">Posted: <em>TBA</em></p>
@@ -314,11 +323,10 @@ permalink: /blog-index/
             </ul>
         </div>
         
-        <a href="#" class="read-more">Read Full Post →</a>
+        <a href="{{ "/faunal-floral-refugia/" | relative_url }}" class="read-more">Read Full Post →</a>
     </div>
-
-    <!-- NEW #11: Prehistoric Mobility Patterns -->
-
+    
+    <!-- #11 Prehistoric Mobility Patterns (replacing old "Cultural-Ecological Disconnect and Maize") -->
     <hr class="subtle-divider">
 
     <div class="blog-entry">
@@ -338,13 +346,12 @@ permalink: /blog-index/
         <a href="{{ "/prehistoric-mobility/" | relative_url }}" class="read-more">Read Full Post →</a>
     </div>
 
-    <!-- Next: #12 becomes "From Teosinte to Tortilla" -->
-    
+    <!-- #12 From Teosinte to Tortilla -->
     <hr class="subtle-divider">
 
     <div class="blog-entry">
         <h2>12. From Teosinte to Tortilla: The Domestication of Maize in the Americas</h2>
-        <p class="post-meta">Posted: <em>4-01-25</em>
+        <p class="post-meta">Posted: <em>4-01-25</em></p>
         <p><em>A Remarkable Story of Human–Plant Co-Evolution</em></p>
         
         <div class="highlights">
@@ -359,8 +366,7 @@ permalink: /blog-index/
         <a href="{{ "/teosinte-tortilla/" | relative_url }}" class="read-more">Read Full Post →</a>
     </div>
 
-    <!-- Finally #13: Southwestern Wyoming's Ecological Mosaic -->
-    
+    <!-- #13 Southwestern Wyoming's Ecological Mosaic -->
     <hr class="subtle-divider">
 
     <div class="blog-entry">
@@ -376,5 +382,6 @@ permalink: /blog-index/
             </ul>
         </div>
         
-        <a href="#" class="read-more">Read Full Post →</a>
+        <a href="{{ "/swwyo-ecological/" | relative_url }}" class="read-more">Read Full Post →</a>
     </div>
+</div>
