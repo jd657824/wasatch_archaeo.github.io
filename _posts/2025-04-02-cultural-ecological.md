@@ -6,12 +6,6 @@ date: 2025-04-02
 permalink: /ecological-disconnect/
 ---
 
----
-layout: page
-title: "Cultural-Ecological Disconnect"
-permalink: /cultural-ecological-disconnect/
----
-
 <style>
     /* Hide auto-generated heading if needed */
     h1.post-title, h1.page-title, header.post-header h1 {
