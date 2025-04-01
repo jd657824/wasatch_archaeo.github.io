@@ -1,5 +1,3 @@
-Below is optimal-foraging.md with the exact same style as your cultural-ecological.md page. It has matching front matter (layout: post, date, permalink) and identical CSS rules, so the headings, paragraphs, and emphasis will appear exactly the same.
-
 ---
 layout: post
 title: "Optimal Foraging Theory"
