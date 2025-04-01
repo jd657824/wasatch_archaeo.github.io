@@ -29,7 +29,7 @@ permalink: /cultural-ecological/
         padding: 0 20px;
     }
     
-    /* Post meta info (date, posted by, etc.) */
+    /* Post meta info (e.g., date) */
     .post-meta {
         font-style: italic;
         color: var(--secondary-color);
@@ -101,13 +101,11 @@ permalink: /cultural-ecological/
 </style>
 
 <div class="content-wrapper">
-    <!-- Example posted date (change as needed) -->
+
+    <!-- Same top format as "Two-Eyed Seeing" -->
     <p class="post-meta">Posted: <em>4-2-25</em></p>
-    
-    <!-- Intro subtitle -->
     <p><em>Cultural-Ecological Disconnect: Understanding How We Became Separated from Our Natural Context</em></p>
     
-    <!-- Intro Paragraph -->
     <p>
         The concept of <strong>“cultural-ecological disconnect”</strong> describes the profound separation between human societies and the natural systems that sustain them. This disconnect represents one of the most significant challenges of our time, undermining our collective capacity to address environmental crises while simultaneously diminishing our sense of belonging within the natural world. By examining the historical processes that created this rift and exploring pathways toward reconnection, we can begin to envision more sustainable and harmonious relationships with our environment.
     </p>
@@ -125,13 +123,11 @@ permalink: /cultural-ecological/
         <ul>
             <li>
                 <strong>Industrialization and Mechanization:</strong> 
-                The Industrial Revolution fundamentally transformed human relationships with nature, introducing unprecedented scales of resource extraction and environmental modification (<em>Foster, 1999</em>). 
-                As mechanized production replaced direct human engagement with natural processes, our experiential understanding of ecological relationships began to fade.
+                The Industrial Revolution fundamentally transformed human relationships with nature, introducing unprecedented scales of resource extraction and environmental modification (<em>Foster, 1999</em>). As mechanized production replaced direct human engagement with natural processes, our experiential understanding of ecological relationships began to fade.
             </li>
             <li>
                 <strong>Colonial Expansion and Displacement:</strong>
-                Colonial systems systematically displaced Indigenous peoples from their traditional territories, disrupting millennia-old relationships between communities and specific landscapes (<em>Wildcat, 2009</em>). 
-                This displacement severed sophisticated knowledge systems evolved through generations of observation and adaptation.
+                Colonial systems systematically displaced Indigenous peoples from their traditional territories, disrupting millennia-old relationships between communities and specific landscapes (<em>Wildcat, 2009</em>). This displacement severed sophisticated knowledge systems evolved through generations of observation and adaptation.
             </li>
             <li>
                 <strong>Philosophical Shifts:</strong> 
@@ -226,7 +222,7 @@ permalink: /cultural-ecological/
     <h2>Toward Reconnection</h2>
     
     <p>
-        Overcoming cultural-ecological disconnect demands **fundamental shifts** in how we understand our place within the natural world. By acknowledging the processes that created this separation—and fostering multiple pathways toward reconnection—we can restore relationships that strengthen ecological integrity and human well-being.
+        Overcoming cultural-ecological disconnect demands <strong>fundamental shifts</strong> in how we understand our place within the natural world. By acknowledging the processes that created this separation—and fostering multiple pathways toward reconnection—we can restore relationships that strengthen ecological integrity and human well-being.
     </p>
     
     <p>
