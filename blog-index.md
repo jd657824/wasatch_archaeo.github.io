@@ -304,7 +304,6 @@ permalink: /blog-index/
             </ul>
         </div>
         
-        <!-- FIXED link to topographic-regional.md -->
         <a href="{{ "/topographic-regional/" | relative_url }}" class="read-more">Read Full Post →</a>
     </div>
     
@@ -324,7 +323,6 @@ permalink: /blog-index/
             </ul>
         </div>
         
-        <!-- FIXED link to flora-fauna-refugia.md -->
         <a href="{{ "/flora-fauna-refugia/" | relative_url }}" class="read-more">Read Full Post →</a>
     </div>
 
@@ -365,7 +363,6 @@ permalink: /blog-index/
             </ul>
         </div>
         
-        <!-- FIXED link to rise-of-maize.md -->
         <a href="{{ "/rise-of-maize/" | relative_url }}" class="read-more">Read Full Post →</a>
     </div>
 
@@ -385,7 +382,6 @@ permalink: /blog-index/
             </ul>
         </div>
         
-        <!-- FIXED link to swwyo-ecological-mosaic.md -->
         <a href="{{ "/swwyo-ecological-mosaic/" | relative_url }}" class="read-more">Read Full Post →</a>
     </div>
 </div>
