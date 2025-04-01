@@ -103,7 +103,6 @@ permalink: /cultural-ecological/
 <div class="content-wrapper">
 
     <!-- Same top format as "Two-Eyed Seeing" -->
-    <p class="post-meta">Posted: <em>4-2-25</em></p>
     <p><em>Cultural-Ecological Disconnect: Understanding How We Became Separated from Our Natural Context</em></p>
     
     <p>
