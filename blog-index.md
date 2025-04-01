@@ -344,7 +344,7 @@ permalink: /blog-index/
 
     <div class="blog-entry">
         <h2>12. From Teosinte to Tortilla: The Domestication of Maize in the Americas</h2>
-        <p class="post-meta">Posted: <em>4-01-25</em></p>https://jd657824.github.io/wasatch_archaeo.github.io/blog-index/
+        <p class="post-meta">Posted: <em>4-01-25</em>
         <p><em>A Remarkable Story of Human–Plant Co-Evolution</em></p>
         
         <div class="highlights">
