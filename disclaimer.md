@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Ethnobotanical Data Disclaimer"
+title: "Disclaimer"
 permalink: /disclaimer/
 ---
 
