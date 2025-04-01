@@ -130,7 +130,7 @@ permalink: /blog-index/
     <hr class="subtle-divider">
     
     <p>
-        <strong>Ethnobotanical Data Disclaimer:</strong> 
+        <strong>Ethnobotanical Data Disclaimer:</strong>
         <a href="{{ "/disclaimer/" | relative_url }}" class="read-more">Read Full Post →</a>
     </p>
     
@@ -227,7 +227,7 @@ permalink: /blog-index/
                 <li>Links to human behavioral ecology in subsistence and social structures.</li>
             </ul>
         </div>
-        
+
         <a href="{{ "/behavioral-ecology/" | relative_url }}" class="read-more">Read Full Post →</a>
     </div>
     
@@ -304,7 +304,7 @@ permalink: /blog-index/
             </ul>
         </div>
         
-        <a href="{{ "/topographic-regionalization/" | relative_url }}" class="read-more">Read Full Post →</a>
+        <a href="{{ "/topographic-regional/" | relative_url }}" class="read-more">Read Full Post →</a>
     </div>
     
     <hr class="subtle-divider">
@@ -323,10 +323,10 @@ permalink: /blog-index/
             </ul>
         </div>
         
-        <a href="{{ "/faunal-floral-refugia/" | relative_url }}" class="read-more">Read Full Post →</a>
+        <a href="{{ "/flora-fauna-refugia/" | relative_url }}" class="read-more">Read Full Post →</a>
     </div>
-    
-    <!-- #11 Prehistoric Mobility Patterns (replacing old "Cultural-Ecological Disconnect and Maize") -->
+
+    <!-- #11 Prehistoric Mobility Patterns (replaces old Cultural-Ecological Disconnect & Maize) -->
     <hr class="subtle-divider">
 
     <div class="blog-entry">
@@ -363,7 +363,7 @@ permalink: /blog-index/
             </ul>
         </div>
         
-        <a href="{{ "/teosinte-tortilla/" | relative_url }}" class="read-more">Read Full Post →</a>
+        <a href="{{ "/rise-of-maize/" | relative_url }}" class="read-more">Read Full Post →</a>
     </div>
 
     <!-- #13 Southwestern Wyoming's Ecological Mosaic -->
@@ -382,6 +382,6 @@ permalink: /blog-index/
             </ul>
         </div>
         
-        <a href="{{ "/swwyo-ecological/" | relative_url }}" class="read-more">Read Full Post →</a>
+        <a href="{{ "/swwyo-ecological-mosaic/" | relative_url }}" class="read-more">Read Full Post →</a>
     </div>
 </div>
