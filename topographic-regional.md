@@ -1,5 +1,3 @@
-Below is topographic-regional.md using the exact same styling as your cultural-ecological.md page. It features the same layout: post, date, permalink, and identical CSS rules – ensuring headings, paragraphs, and emphasis match perfectly.
-
 ---
 layout: post
 title: "Topographic Regionalization"
