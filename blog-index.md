@@ -131,7 +131,7 @@ permalink: /blog-index/
     
     <p>
         <strong>Ethnobotanical Data Disclaimer:</strong> 
-        <!-- Instead of {{ site.baseurl }}/disclaimer/, use relative_url -->
+        <!-- Linking to disclaimer -->
         <a href="{{ "/disclaimer/" | relative_url }}" class="read-more">Read Full Post →</a>
     </p>
     
@@ -169,8 +169,8 @@ permalink: /blog-index/
             </ul>
         </div>
         
-        <!-- Replace '#' once you have an actual page/permalink -->
-        <a href="#" class="read-more">Read Full Post →</a>
+        <!-- Updated link: replaced '#' with /cultural-ecological/ -->
+        <a href="{{ "/cultural-ecological/" | relative_url }}" class="read-more">Read Full Post →</a>
     </div>
     
     <hr class="subtle-divider">
