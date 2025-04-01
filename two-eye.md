@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: post
 title: "Two-Eyed Seeing"
+date: 2025-02-28
 permalink: /two-eye/
 ---
 
