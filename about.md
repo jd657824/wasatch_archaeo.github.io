@@ -87,7 +87,7 @@ permalink: /about/
     
     <ul>
         <li>
-            <strong>Foundational Concepts &amp; Theoretical Insights:</strong> An evolving overview of core ideas and frameworks that underpin my research on human-environment interactions.
+            <strong>Foundational Concepts &amp; Theoretical Insights:</strong> An evolving overview of core ideas and frameworks that underpin my research on human-environment interactions. Best for thos unfamilar or with a little rust on specific key concepts discussed.
         </li>
         <li>
             <strong>Blog:</strong> A regularly updated section where I share detailed posts, case studies, and current discussions on emerging research topics.
