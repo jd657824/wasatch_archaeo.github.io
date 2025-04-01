@@ -260,31 +260,13 @@ permalink: /blog-index/
         <a href="#" class="read-more">Read Full Post →</a>
     </div>
 
-    <!-- NEW ENTRY #8 (Insert here, everything below gets bumped one number) -->
+    <!-- Remove the old #11 entry: "Cultural-Ecological Disconnect and Maize"
+         Insert "Prehistoric Mobility Patterns" in its place as new #11 -->
+
     <hr class="subtle-divider">
 
     <div class="blog-entry">
-        <h2>8. Prehistoric Mobility Patterns: Understanding Logistical versus Residential Strategies</h2>
-        <p class="post-meta">Posted: <em>4-03-25</em></p>
-        <p><em>How Hunter-Gatherers Navigated Their Landscapes</em></p>
-        
-        <div class="highlights">
-            <ul>
-                <li>Contrasts two fundamental mobility strategies: residential mobility (moving people to resources) versus logistical mobility (moving resources to people).</li>
-                <li>Examines how different environments shaped mobility decisions, with resource distribution patterns driving which strategy predominated.</li>
-                <li>Details the archaeological signatures of each strategy, from tool assemblages and raw material patterns to site structures and faunal remains.</li>
-                <li>Highlights Late Holocene transitions across Western North America, revealing how groups developed increasingly sophisticated mobility systems in response to environmental and social changes.</li>
-            </ul>
-        </div>
-        
-        <a href="{{ "/prehistoric-mobility/" | relative_url }}" class="read-more">Read Full Post →</a>
-    </div>
-    
-    <!-- SHIFT OLD #8 -> #9, #9-> #10, etc. -->
-    <hr class="subtle-divider">
-    
-    <div class="blog-entry">
-        <h2>9. Climatic Stationarity</h2>
+        <h2>8. Climatic Stationarity</h2>
         <p class="post-meta">Posted: <em>TBA</em></p>
         <p><em>Why the Past Is (Mostly) No Longer a Reliable Guide</em></p>
         
@@ -302,7 +284,7 @@ permalink: /blog-index/
     <hr class="subtle-divider">
     
     <div class="blog-entry">
-        <h2>10. Topographic Regionalization</h2>
+        <h2>9. Topographic Regionalization</h2>
         <p class="post-meta">Posted: <em>TBA</em></p>
         <p><em>How Landscapes Shape Cultural-Ecological Patterns</em></p>
         
@@ -320,7 +302,7 @@ permalink: /blog-index/
     <hr class="subtle-divider">
     
     <div class="blog-entry">
-        <h2>11. Floral and Faunal Refugia</h2>
+        <h2>10. Floral and Faunal Refugia</h2>
         <p class="post-meta">Posted: <em>TBA</em></p>
         <p><em>Where Biodiversity Finds Shelter in Changing Climates</em></p>
         
@@ -334,27 +316,53 @@ permalink: /blog-index/
         
         <a href="#" class="read-more">Read Full Post →</a>
     </div>
-    
+
+    <!-- NEW #11: Prehistoric Mobility Patterns -->
+
     <hr class="subtle-divider">
-    
+
     <div class="blog-entry">
-        <h2>12. Cultural-Ecological Disconnect and Maize</h2>
-        <p class="post-meta">Posted: <em>TBA</em></p>
-        <p><em>When a Promising Resource Becomes an Incompatible Prey</em></p>
+        <h2>11. Prehistoric Mobility Patterns: Understanding Logistical vs. Residential Strategies</h2>
+        <p class="post-meta">Posted: <em>4-03-25</em></p>
+        <p><em>How Hunter-Gatherers Navigated Their Landscapes</em></p>
         
         <div class="highlights">
             <ul>
-                <li>Focuses on the Basin-Plateau region, analyzing how maize agriculture clashed with arid environments.</li>
-                <li>Tracks how initial benefits eventually gave way to ecological mismatches.</li>
-                <li>Draws parallels to modern monocultures reliant on fragile, water-intensive systems.</li>
+                <li>Contrasts two fundamental mobility strategies: residential mobility (moving people to resources) vs. logistical mobility (moving resources to people).</li>
+                <li>Examines how different environments shaped mobility decisions, with resource distribution patterns driving which strategy predominated.</li>
+                <li>Details the archaeological signatures of each strategy, from tool assemblages and raw material patterns to site structures and faunal remains.</li>
+                <li>Highlights Late Holocene transitions across Western North America, revealing how groups developed sophisticated mobility systems in response to environmental and social changes.</li>
             </ul>
         </div>
         
-        <a href="#" class="read-more">Read Full Post →</a>
+        <a href="{{ "/prehistoric-mobility/" | relative_url }}" class="read-more">Read Full Post →</a>
     </div>
+
+    <!-- Next: #12 becomes "From Teosinte to Tortilla" -->
     
     <hr class="subtle-divider">
+
+    <div class="blog-entry">
+        <h2>12. From Teosinte to Tortilla: The Domestication of Maize in the Americas</h2>
+        <p class="post-meta">Posted: <em>4-01-25</em></p>https://jd657824.github.io/wasatch_archaeo.github.io/blog-index/
+        <p><em>A Remarkable Story of Human–Plant Co-Evolution</em></p>
+        
+        <div class="highlights">
+            <ul>
+                <li>Traces the 9,000-year journey from wild teosinte grass to modern maize, revealing the remarkable transformation through human selection.</li>
+                <li>Details archaeological and genetic evidence pinpointing initial domestication in Mexico’s Balsas River Valley and subsequent spread throughout the Americas.</li>
+                <li>Explains how maize adapted to diverse environments—from tropical lowlands to high-altitude Andes to short growing seasons in North America.</li>
+                <li>Explores how innovations like nixtamalization enhanced maize’s nutritional value, fueling the rise of complex civilizations across the hemisphere.</li>
+            </ul>
+        </div>
+        
+        <a href="{{ "/teosinte-tortilla/" | relative_url }}" class="read-more">Read Full Post →</a>
+    </div>
+
+    <!-- Finally #13: Southwestern Wyoming's Ecological Mosaic -->
     
+    <hr class="subtle-divider">
+
     <div class="blog-entry">
         <h2>13. Southwestern Wyoming's Ecological Mosaic</h2>
         <p class="post-meta">Posted: <em>TBA</em></p>
