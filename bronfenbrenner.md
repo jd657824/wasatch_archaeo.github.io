@@ -115,7 +115,7 @@ permalink: /bronfenbrenner/
     This multidimensional approach to time acknowledges that developmental processes unfold across different temporal scales, from moment-to-moment interactions to historical trends that shape entire generations (Bronfenbrenner & Morris, 2006).
   </p>
   
-  <h2>Applications in Environmental Anthropology</h2>
+  <h2>Applications in Environmental Archaeology</h2>
   <p>
     While Bronfenbrenner developed his model primarily to understand child development, its ecological approach offers valuable insights for environmental anthropology and related fields studying human-environment interactions. Several parallel applications emerge:
   </p>
@@ -127,21 +127,6 @@ permalink: /bronfenbrenner/
   <p><strong>Cultural Transmission:</strong> The bioecological model's emphasis on proximal processes provides insight into how ecological knowledge is transmitted across generations through observational learning, guided participation, and collaborative engagement in subsistence practices—processes that simultaneously build skills and reinforce cultural values (Greenfield et al., 2003).</p>
   
   <p><strong>Vulnerability and Resilience:</strong> By highlighting how disruptions in one system ripple through interconnected contexts, the model offers a framework for understanding how environmental changes affect communities differently based on their positions within larger social, economic, and political systems (Cutter et al., 2008).</p>
-  
-  <h2>Case Study: Climate Change Adaptation</h2>
-  <p>
-    Consider how the PPCT framework illuminates climate change adaptation in coastal communities:
-  </p>
-  <ul>
-    <li><strong>Process:</strong> Adaptation emerges through ongoing interactions between community members and changing environmental conditions—collaborative problem-solving, knowledge sharing about environmental indicators, and joint experimentation with modified subsistence strategies.</li>
-    <li><strong>Person:</strong> Individual characteristics (traditional ecological knowledge, previous exposure to environmental changes, psychological orientation toward uncertainty) significantly influence engagement with adaptation efforts.</li>
-    <li><strong>Context:</strong> Adaptation unfolds across nested systems, from household decision-making (microsystems) to regional management policies (exosystems) to broader economic structures and climate policies (macrosystems).</li>
-    <li><strong>Time:</strong> Adaptation processes operate across multiple timescales, from seasonal adjustments to long-term transformations in community structure and identity.</li>
-  </ul>
-  
-  <p>
-    This bioecological perspective reveals adaptation not as a single response but as dynamic, ongoing processes embedded within multilayered contexts that change over time.
-  </p>
   
   <h2>Implications for Research and Practice</h2>
   <p>
