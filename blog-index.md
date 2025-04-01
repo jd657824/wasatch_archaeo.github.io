@@ -198,7 +198,7 @@ permalink: /blog-index/
     <!-- #4 Julian Steward and Karl Butzer -->
     <div class="blog-entry">
         <h2>4. Julian Steward and Karl Butzer</h2>
-        <p class="post-meta">Posted: <em>TBA</em></p>
+        <p class="post-meta">Posted: <em>04-01-2025</em></p>
         <p><em>Where Cultural Ecology Meets Archaeology as Human Ecology</em></p>
         
         <div class="highlights">
@@ -217,7 +217,7 @@ permalink: /blog-index/
     <!-- #5 Behavioral Ecology -->
     <div class="blog-entry">
         <h2>5. Behavioral Ecology</h2>
-        <p class="post-meta">Posted: <em>TBA</em></p>
+        <p class="post-meta">Posted: <em>04-01-2025</em></p>
         <p><em>Understanding How Organisms Adapt Their Behaviors to Environmental Challenges</em></p>
         
         <div class="highlights">
@@ -293,7 +293,7 @@ permalink: /blog-index/
     <!-- #9 Topographic Regionalization -->
     <div class="blog-entry">
         <h2>9. Topographic Regionalization</h2>
-        <p class="post-meta">Posted: <em>TBA</em></p>
+        <p class="post-meta">Posted: <em>04-01-2025</em></p>
         <p><em>How Landscapes Shape Cultural-Ecological Patterns</em></p>
         
         <div class="highlights">
@@ -351,7 +351,7 @@ permalink: /blog-index/
 
     <div class="blog-entry">
         <h2>12. From Teosinte to Tortilla: The Domestication of Maize in the Americas</h2>
-        <p class="post-meta">Posted: <em>4-01-25</em></p>
+        <p class="post-meta">Posted: <em>4-01-2025</em></p>
         <p><em>A Remarkable Story of Human–Plant Co-Evolution</em></p>
         
         <div class="highlights">
