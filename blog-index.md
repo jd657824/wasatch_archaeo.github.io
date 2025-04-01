@@ -378,4 +378,3 @@ permalink: /blog-index/
         
         <a href="#" class="read-more">Read Full Post →</a>
     </div>
-</div>
