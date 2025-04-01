@@ -1,5 +1,3 @@
-Below is flora-fauna-refugia.md using the exact same styling as your cultural-ecological.md page. It has the same layout: post, date, permalink, and identical CSS rules, so headings, paragraphs, and emphasis match perfectly.
-
 ---
 layout: post
 title: "Floral and Faunal Refugia"
