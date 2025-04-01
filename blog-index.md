@@ -331,7 +331,7 @@ permalink: /blog-index/
 
     <div class="blog-entry">
         <h2>11. Prehistoric Mobility Patterns: Understanding Logistical vs. Residential Strategies</h2>
-        <p class="post-meta">Posted: <em>4-01-25</em></p>
+        <p class="post-meta">Posted: <em>4-01-2025</em></p>
         <p><em>How Hunter-Gatherers Navigated Their Landscapes</em></p>
         
         <div class="highlights">
