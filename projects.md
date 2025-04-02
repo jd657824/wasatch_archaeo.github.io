@@ -116,29 +116,10 @@ permalink: /projects/
     </p>
     <ul>
         <li>
-            <strong>Multi-scalar Landscapes: Operationalizing the Environmental Archaeology Heuristic Through GIS</strong>
-            <br><em>Target Journal:</em> Journal of Archaeological Method and Theory
-            <br><em>Description:</em> Theoretical framework for integrating EAH's system levels with geospatial analysis to create testable models of evolutionary adaptation in archaeological contexts.
-        </li>
-        <li>
-            <strong>Spatial Syntax of Adaptation: GIS-based Workflows for Implementing the Environmental Archaeology Heuristic</strong>
+            <strong>The Uinta Fremont: An Environmental Archaeology Heuristic Perspective</strong>
             <br><em>Target Journal:</em> Journal of Archaeological Science
-            <br><em>Description:</em> Technical implementation guide detailing reproducible GIS methods for quantifying and testing evolutionary hypotheses across EAH's system levels.
-        </li>
-        <li>
-            <strong>Adaptive Landscapes in Flux: Comparative Application of the EAH-GIS Framework Across Divergent Ecosystems</strong>
-            <br><em>Target Journal:</em> Quaternary International
-            <br><em>Description:</em> Multi-regional application of the EAH-GIS framework comparing evolutionary trajectories between arid, mountainous, and coastal prehistoric adaptations.
-        </li>
-        <li>
-            <strong>Temporal Rhythms in Spatial Adaptations: Time-Series Modeling of Evolutionary Change Within the EAH Framework</strong>
-            <br><em>Target Journal:</em> Archaeological and Anthropological Sciences
-            <br><em>Description:</em> Methodological approach for incorporating temporal dynamics into geospatial modeling of evolutionary processes using time-series analysis and chronological modeling.
-        </li>
-        <li>
-            <strong>Convergent Methods for Evolutionary Testing: Integrating Agent-Based Modeling, Bayesian Statistics, and GIS within the Environmental Archaeology Heuristic</strong>
-            <br><em>Target Journal:</em> Advances in Archaeological Practice
-            <br><em>Description:</em> Methodological integration of multiple computational approaches to strengthen evolutionary hypothesis testing within the EAH framework.
+            <br><em>Target Submission Date:</em> May 2025
+            <br><em>Description:</em> Using novel EAH methodological framework for evaluating the Uinta Fremont of northeastern Utah.
         </li>
         <li>
             <strong>Hot and Cold Niches: Microclimatic Variability and Prehistoric Agricultural Adaptations in the Intermountain West</strong>
@@ -147,10 +128,34 @@ permalink: /projects/
             <br><em>Description:</em> Geocomputational analysis of microclimatic variations and their role in prehistoric agricultural strategies across diverse Intermountain West landforms.
         </li>
         <li>
-            <strong>The Uinta Fremont: An Environmental Archaeology Heuristic Perspective</strong>
+            <strong>Multi-scalar Landscapes: Operationalizing the Environmental Archaeology Heuristic Through GIS</strong>
+            <br><em>Target Journal:</em> Journal of Archaeological Method and Theory
+            <br><em>Target Submission Date:</em> TBA
+            <br><em>Description:</em> Theoretical framework for integrating EAH's system levels with geospatial analysis to create testable models of evolutionary adaptation in archaeological contexts.
+        </li>
+        <li>
+            <strong>Spatial Syntax of Adaptation: GIS-based Workflows for Implementing the Environmental Archaeology Heuristic</strong>
             <br><em>Target Journal:</em> Journal of Archaeological Science
-            <br><em>Target Submission Date:</em> May 2025
-            <br><em>Description:</em> Using novel EAH methodological framework for evaluating the Uinta Fremont of northeastern Utah.
+            <br><em>Target Submission Date:</em> TBA
+            <br><em>Description:</em> Technical implementation guide detailing reproducible GIS methods for quantifying and testing evolutionary hypotheses across EAH's system levels.
+        </li>
+        <li>
+            <strong>Adaptive Landscapes in Flux: Comparative Application of the EAH-GIS Framework Across Divergent Ecosystems</strong>
+            <br><em>Target Journal:</em> Quaternary International
+            <br><em>Target Submission Date:</em> TBA
+            <br><em>Description:</em> Multi-regional application of the EAH-GIS framework comparing evolutionary trajectories between arid, mountainous, and coastal prehistoric adaptations.
+        </li>
+        <li>
+            <strong>Temporal Rhythms in Spatial Adaptations: Time-Series Modeling of Evolutionary Change Within the EAH Framework</strong>
+            <br><em>Target Journal:</em> Archaeological and Anthropological Sciences
+            <br><em>Target Submission Date:</em> TBA
+            <br><em>Description:</em> Methodological approach for incorporating temporal dynamics into geospatial modeling of evolutionary processes using time-series analysis and chronological modeling.
+        </li>
+        <li>
+            <strong>Convergent Methods for Evolutionary Testing: Integrating Agent-Based Modeling, Bayesian Statistics, and GIS within the Environmental Archaeology Heuristic</strong>
+            <br><em>Target Journal:</em> Advances in Archaeological Practice
+            <br><em>Target Submission Date:</em> TBA
+            <br><em>Description:</em> Methodological integration of multiple computational approaches to strengthen evolutionary hypothesis testing within the EAH framework.
         </li>
         <li>
             <strong>Predicting Optimal Residential Base Camp Positioning from Distributed Task Sites: A GIS-Based Model of Uinta Phase Hunter-Gatherer Logistical Mobility in the Southwest Wyoming Basin</strong>
