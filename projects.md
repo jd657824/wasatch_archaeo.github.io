@@ -130,31 +130,25 @@ permalink: /projects/
         <li>
             <strong>Multi-scalar Landscapes: Operationalizing the Environmental Archaeology Heuristic Through GIS</strong>
             <br><em>Target Journal:</em> Journal of Archaeological Method and Theory
-            <br><em>Target Submission Date:</em> TBA
+            <br><em>Target Submission Date:</em> April, 2025
             <br><em>Description:</em> Theoretical framework for integrating EAH's system levels with geospatial analysis to create testable models of evolutionary adaptation in archaeological contexts.
         </li>
         <li>
             <strong>Spatial Syntax of Adaptation: GIS-based Workflows for Implementing the Environmental Archaeology Heuristic</strong>
             <br><em>Target Journal:</em> Journal of Archaeological Science
-            <br><em>Target Submission Date:</em> TBA
+            <br><em>Target Submission Date:</em> May, 2025
             <br><em>Description:</em> Technical implementation guide detailing reproducible GIS methods for quantifying and testing evolutionary hypotheses across EAH's system levels.
         </li>
         <li>
             <strong>Adaptive Landscapes in Flux: Comparative Application of the EAH-GIS Framework Across Divergent Ecosystems</strong>
             <br><em>Target Journal:</em> Quaternary International
-            <br><em>Target Submission Date:</em> TBA
+            <br><em>Target Submission Date:</em> May, 2025
             <br><em>Description:</em> Multi-regional application of the EAH-GIS framework comparing evolutionary trajectories between arid, mountainous, and coastal prehistoric adaptations.
-        </li>
-        <li>
-            <strong>Temporal Rhythms in Spatial Adaptations: Time-Series Modeling of Evolutionary Change Within the EAH Framework</strong>
-            <br><em>Target Journal:</em> Archaeological and Anthropological Sciences
-            <br><em>Target Submission Date:</em> TBA
-            <br><em>Description:</em> Methodological approach for incorporating temporal dynamics into geospatial modeling of evolutionary processes using time-series analysis and chronological modeling.
         </li>
         <li>
             <strong>Convergent Methods for Evolutionary Testing: Integrating Agent-Based Modeling, Bayesian Statistics, and GIS within the Environmental Archaeology Heuristic</strong>
             <br><em>Target Journal:</em> Advances in Archaeological Practice
-            <br><em>Target Submission Date:</em> TBA
+            <br><em>Target Submission Date:</em> May, 2025
             <br><em>Description:</em> Methodological integration of multiple computational approaches to strengthen evolutionary hypothesis testing within the EAH framework.
         </li>
         <li>
@@ -162,6 +156,12 @@ permalink: /projects/
             <br><em>Target Journal:</em> Journal of Archaeological Method and Theory
             <br><em>Target Submission Date:</em> May 2025
             <br><em>Description:</em> Development of a predictive model for identifying optimal residential base camp locations based on known specialized task sites, testing the logistical mobility model against archaeological evidence from the Uinta Phase.
+        </li>
+        <li>
+            <strong>Temporal Rhythms in Spatial Adaptations: Time-Series Modeling of Evolutionary Change Within the EAH Framework</strong>
+            <br><em>Target Journal:</em> Archaeological and Anthropological Sciences
+            <br><em>Target Submission Date:</em> April, 2025
+            <br><em>Description:</em> Methodological approach for incorporating temporal dynamics into geospatial modeling of evolutionary processes using time-series analysis and chronological modeling.
         </li>
     </ul>
     <p>
