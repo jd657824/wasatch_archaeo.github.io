@@ -1,56 +1,18 @@
 <style>
-  /* Sticky Header */
   .site-header {
     position: sticky;
     top: 0;
-    width: 100%;
-    background-color: #fff; /* Ensures the header has a solid background */
-    z-index: 1000; /* Keeps the header above other content */
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    padding: 10px 0;
-  }
-
-  /* Main title styling */
-  .site-title {
-    margin: 0;
-    font-size: 1.8rem;
-  }
-  .site-title a {
-    text-decoration: none;
-    color: #333;
-  }
-
-  /* Navigation styling */
-  .site-nav {
-    margin-top: 10px;
-  }
-  .site-nav a {
-    margin-right: 10px;
-    text-decoration: none;
-    color: var(--primary-color);
-    font-weight: 500;
-  }
-  .site-nav a:hover {
-    text-decoration: underline;
-    color: var(--secondary-color);
-  }
-  
-  /* Wrapper for consistent horizontal padding */
-  .wrapper {
-    max-width: 900px;
-    margin: 0 auto;
-    padding: 0 20px;
+    background-color: #fff; /* Ensure a solid background */
+    z-index: 1000; /* Keep the header on top */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: subtle shadow for separation */
   }
 </style>
 
 <header class="site-header">
   <div class="wrapper">
-    <!-- Site Title -->
     <h1 class="site-title">
       <a href="https://jd657824.github.io/wasatch_archaeo.github.io/">Wasatch-Archaeo</a>
     </h1>
-    
-    <!-- Main Navigation -->
     <nav class="site-nav">
       {% for page in site.pages %}
         {% assign page_filename = page.path | split: "/" | last %}
