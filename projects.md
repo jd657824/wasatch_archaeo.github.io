@@ -91,13 +91,13 @@ permalink: /projects/
             <strong>Cultivating Disconnect: A Review of Maize Agriculture and Environmental Sustainability Among Fremont and Ancestral Puebloan Peoples</strong>
             <br><em>Target Journal:</em> Journal of Archaeological Science
             <br><em>Target Submission Date:</em> March 2025
-            <br><em>Description:</em> This interdisciplinary review examines ecological disconnects that emerged when Fremont and Ancestral Puebloan peoples adopted maize agriculture, analyzing archaeological evidence of environmental degradation, nutritional challenges, and cultural adaptations to assess agricultural sustainability in marginal environments.
+            <br><em>Description:</em> An interdisciplinary review examining ecological disconnects that emerged when Fremont and Ancestral Puebloan peoples adopted maize agriculture, analyzing archaeological evidence of environmental degradation, nutritional challenges, and cultural adaptations to assess agricultural sustainability in marginal environments.
         </li>
         <li>
             <strong>Nutritional Profiles in Context: A Comparative Analysis of Maize and Endemic North American Geophytes</strong>
             <br><em>Target Journal:</em> Journal of Ethnobiology
             <br><em>Target Submission Date:</em> March 2025
-            <br><em>Description:</em> This research compares the nutritional profiles of introduced maize agriculture with endemic North American geophytes to understand dietary transitions and adaptations among indigenous populations.
+            <br><em>Description:</em> Proposed research compares the nutritional profiles of introduced maize agriculture with endemic North American geophytes to understand dietary transitions and adaptations among indigenous populations.
         </li>
     </ul>
     
