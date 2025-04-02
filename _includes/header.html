@@ -1,3 +1,37 @@
+<style>
+  /* Sticky Header */
+  .site-header {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    background-color: #fff; /* Ensures the header has a solid background */
+    z-index: 1000; /* Keeps the header above other content */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 10px 0;
+  }
+
+  /* Breadcrumbs styling */
+  .breadcrumbs {
+    font-size: 0.9rem;
+    margin-top: 10px;
+    color: #8a6552; /* Secondary color */
+  }
+  .breadcrumbs a {
+    color: var(--primary-color);
+    text-decoration: none;
+  }
+  .breadcrumbs a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Optional: Ensure the wrapper has proper padding */
+  .wrapper {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+</style>
+
 <header class="site-header">
   <div class="wrapper">
     <h1 class="site-title">
@@ -10,6 +44,11 @@
           <a class="page-link" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
         {% endif %}
       {% endfor %}
+    </nav>
+    <!-- Breadcrumbs -->
+    <nav class="breadcrumbs">
+      <a href="{{ site.baseurl }}/">Home</a> &gt;
+      <span>{{ page.title }}</span>
     </nav>
   </div>
 </header>
