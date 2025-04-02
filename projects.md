@@ -106,8 +106,8 @@ permalink: /projects/
         These projects are currently supported by external funding or are part of ongoing grants. They demonstrate the recognition and support of the academic community for innovative research in human-environment interactions:
     </p>
     <ul>
-        <li><strong>Grant Project Title 1:</strong> Description of funded project; include the grant agency and objectives.</li>
-        <li><strong>Grant Project Title 2:</strong> Description of funded project; include the grant agency and objectives.</li>
+        <li><strong>Grant Project Title 1:</strong> TBA.</li>
+        <li><strong>Grant Project Title 2:</strong> TBA.</li>
     </ul>
     
     <h2>Research in Development &amp; Collaboration Opportunities</h2>
