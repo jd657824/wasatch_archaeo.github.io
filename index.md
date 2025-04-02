@@ -70,6 +70,31 @@ permalink: /
         border-radius: 4px;
         box-shadow: 0 4px 12px rgba(0,0,0,0.15);
     }
+    
+    /* Donation Section Styles */
+    .donation-section {
+        margin-top: 2rem;
+        padding: 1rem;
+        background-color: rgba(216, 185, 118, 0.1);
+        border: 1px solid rgba(216, 185, 118, 0.3);
+        border-radius: 4px;
+    }
+    
+    .donation-section h2 {
+        font-size: 1.6rem;
+        color: var(--secondary-color);
+        margin-bottom: 0.5rem;
+    }
+    
+    .donation-section a {
+        color: var(--primary-color);
+        text-decoration: none;
+        font-weight: 600;
+    }
+    
+    .donation-section a:hover {
+        text-decoration: underline;
+    }
 </style>
 
 <div class="content-wrapper">
@@ -78,5 +103,16 @@ permalink: /
     <p>
         Welcome to my personal research blog—a scholarly space dedicated to sharing insights from fieldwork, research perspectives, and rigorous explorations of both theoretical constructs and imaginative inquiries. My aim is not only to confront the unknown but also to present these challenges in an accessible manner, enabling diverse audiences to engage with and comprehend the intricate dynamics of our Earth system and the extraordinary adaptive strategies that have sustained human societies throughout time.
     </p>
+    
+    <!-- Donation Section -->
+    <div class="donation-section">
+        <h2>Support Research</h2>
+        <p>
+            Your generous donations help support ongoing research projects and enable further interdisciplinary inquiry. If you would like to contribute to advancing this work, please consider making a donation.
+        </p>
+        <p>
+            <a href="https://example.com/donate" target="_blank">Donate Now</a>
+        </p>
+    </div>
     
 </div>
