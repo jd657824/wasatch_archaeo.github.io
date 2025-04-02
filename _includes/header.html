@@ -10,10 +10,32 @@
     padding: 10px 0;
   }
 
+  /* Main title styling */
+  .site-title {
+    margin: 0;
+    font-size: 1.8rem;
+  }
+  .site-title a {
+    text-decoration: none;
+    color: #333;
+  }
+
+  /* Navigation styling */
+  .site-nav {
+    margin-top: 10px;
+  }
+  .site-nav a {
+    margin-right: 10px;
+  }
+
+  /* Breadcrumbs container: extra margin to separate from the nav */
+  .breadcrumbs-container {
+    margin-top: 10px;
+  }
+
   /* Breadcrumbs styling */
   .breadcrumbs {
     font-size: 0.9rem;
-    margin-top: 10px;
     color: #8a6552; /* Secondary color */
   }
   .breadcrumbs a {
@@ -24,7 +46,7 @@
     text-decoration: underline;
   }
   
-  /* Optional: Ensure the wrapper has proper padding */
+  /* Wrapper for consistent horizontal padding */
   .wrapper {
     max-width: 900px;
     margin: 0 auto;
@@ -34,9 +56,12 @@
 
 <header class="site-header">
   <div class="wrapper">
+    <!-- Site Title -->
     <h1 class="site-title">
       <a href="https://jd657824.github.io/wasatch_archaeo.github.io/">Wasatch-Archaeo</a>
     </h1>
+    
+    <!-- Main Navigation -->
     <nav class="site-nav">
       {% for page in site.pages %}
         {% assign page_filename = page.path | split: "/" | last %}
@@ -45,10 +70,13 @@
         {% endif %}
       {% endfor %}
     </nav>
-    <!-- Breadcrumbs -->
-    <nav class="breadcrumbs">
-      <a href="{{ site.baseurl }}/">Home</a> &gt;
-      <span>{{ page.title }}</span>
-    </nav>
+    
+    <!-- Breadcrumbs Section -->
+    <div class="breadcrumbs-container">
+      <nav class="breadcrumbs">
+        <a href="{{ site.baseurl }}/">Home</a> &gt;
+        <span>{{ page.title }}</span>
+      </nav>
+    </div>
   </div>
 </header>
