@@ -156,6 +156,7 @@ permalink: /about/
             <a href="https://example.com/donate" target="_blank">Donate Now</a>
         </p>
     </div>
+
     
     <p>
         My work is grounded in a commitment to interdisciplinary research and a two-eyed seeing approach that values both traditional ecological knowledge and Western scientific methods. By integrating these perspectives, I aim to uncover deeper insights into how societies have adapted to and shaped their environments over time.
