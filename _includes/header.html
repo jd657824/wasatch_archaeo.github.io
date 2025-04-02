@@ -26,24 +26,13 @@
   }
   .site-nav a {
     margin-right: 10px;
-  }
-
-  /* Breadcrumbs container: extra margin to separate from the nav */
-  .breadcrumbs-container {
-    margin-top: 10px;
-  }
-
-  /* Breadcrumbs styling */
-  .breadcrumbs {
-    font-size: 0.9rem;
-    color: #8a6552; /* Secondary color */
-  }
-  .breadcrumbs a {
-    color: var(--primary-color);
     text-decoration: none;
+    color: var(--primary-color);
+    font-weight: 500;
   }
-  .breadcrumbs a:hover {
+  .site-nav a:hover {
     text-decoration: underline;
+    color: var(--secondary-color);
   }
   
   /* Wrapper for consistent horizontal padding */
@@ -70,13 +59,5 @@
         {% endif %}
       {% endfor %}
     </nav>
-    
-    <!-- Breadcrumbs Section -->
-    <div class="breadcrumbs-container">
-      <nav class="breadcrumbs">
-        <a href="{{ site.baseurl }}/">Home</a> &gt;
-        <span>{{ page.title }}</span>
-      </nav>
-    </div>
   </div>
 </header>
