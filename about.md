@@ -98,6 +98,14 @@ permalink: /about/
     .donation-section a:hover {
         text-decoration: underline;
     }
+    
+    /* Subtle divider styling */
+    .subtle-divider {
+        height: 1px;
+        background: linear-gradient(to right, transparent, #e0e0e0, transparent);
+        margin: 2rem 0;
+        border: none;
+    }
 </style>
 
 <div class="content-wrapper">
@@ -110,6 +118,14 @@ permalink: /about/
     <p>
         The blog is organized into several key sections. Click the buttons below to explore each area:
     </p>
+    
+    <!-- Ethnobotanical & Cultural Data Disclaimer -->
+    <hr class="subtle-divider">
+    <p>
+        <strong>Ethnobotanical &amp; Cultural Data Disclaimer:</strong>
+        <a href="{{ "/disclaimer/" | relative_url }}" class="read-more">Read Full Post →</a>
+    </p>
+    <hr class="subtle-divider">
     
     <!-- Foundational Concepts & Theoretical Insights -->
     <div class="blog-entry">
@@ -156,7 +172,6 @@ permalink: /about/
             <a href="https://example.com/donate" target="_blank">Donate Now</a>
         </p>
     </div>
-
     
     <p>
         My work is grounded in a commitment to interdisciplinary research and a two-eyed seeing approach that values both traditional ecological knowledge and Western scientific methods. By integrating these perspectives, I aim to uncover deeper insights into how societies have adapted to and shaped their environments over time.
