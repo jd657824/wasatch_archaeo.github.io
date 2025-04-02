@@ -118,13 +118,13 @@ permalink: /projects/
         <li>
             <strong>The Uinta Fremont: An Environmental Archaeology Heuristic Perspective</strong>
             <br><em>Target Journal:</em> Journal of Archaeological Science
-            <br><em>Target Submission Date:</em> August 2025
+            <br><em>Target Submission Date:</em> August, 2025
             <br><em>Description:</em> Using novel EAH methodological framework for evaluating the Uinta Fremont of northeastern Utah.
         </li>
         <li>
             <strong>Hot and Cold Niches: Microclimatic Variability and Prehistoric Agricultural Adaptations in the Intermountain West</strong>
             <br><em>Target Journal:</em> Holocene
-            <br><em>Target Submission Date:</em> August 2025
+            <br><em>Target Submission Date:</em> August, 2025
             <br><em>Description:</em> Geocomputational analysis of microclimatic variations and their role in prehistoric agricultural strategies across diverse Intermountain West landforms.
         </li>
         <li>
@@ -142,7 +142,7 @@ permalink: /projects/
         <li>
             <strong>Predicting Optimal Residential Base Camp Positioning from Distributed Task Sites: A GIS-Based Model of Uinta Phase Hunter-Gatherer Logistical Mobility in the Southwest Wyoming Basin</strong>
             <br><em>Target Journal:</em> Journal of Archaeological Method and Theory
-            <br><em>Target Submission Date:</em> May 2025
+            <br><em>Target Submission Date:</em> May, 2025
             <br><em>Description:</em> Development of a predictive model for identifying optimal residential base camp locations based on known specialized task sites, testing the logistical mobility model against archaeological evidence from the Uinta Phase.
         </li>
         <li>
