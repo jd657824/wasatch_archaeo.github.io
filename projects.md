@@ -118,7 +118,7 @@ permalink: /projects/
         <li>
             <strong>The Uinta Fremont: An Environmental Archaeology Heuristic Perspective</strong>
             <br><em>Target Journal:</em> Journal of Archaeological Science
-            <br><em>Target Submission Date:</em> May 2025
+            <br><em>Target Submission Date:</em> August 2025
             <br><em>Description:</em> Using novel EAH methodological framework for evaluating the Uinta Fremont of northeastern Utah.
         </li>
         <li>
