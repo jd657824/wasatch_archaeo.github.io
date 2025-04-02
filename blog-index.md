@@ -129,13 +129,6 @@ permalink: /blog-index/
     
     <hr class="subtle-divider">
     
-    <p>
-        <strong>Ethnobotanical & Cultural Data Disclaimer:</strong>
-        <a href="{{ "/disclaimer/" | relative_url }}" class="read-more">Read Full Post →</a>
-    </p>
-    
-    <hr class="subtle-divider">
-    
     <!-- #1 Two-Eyed Seeing -->
     <div class="blog-entry">
         <h2>1. Two-Eyed Seeing</h2>
