@@ -87,13 +87,15 @@ permalink: /credentials/
       <a href="/path/to/research-program.pdf" target="_blank">Explore My Research Program</a>
     </p>
     
-    <h2>Publications &amp; Presentations</h2>
-    <p>
-      <a href="/path/to/publications.pdf" target="_blank">See My Publications and Conference Presentations</a>
-    </p>
-    
     <h2>Professional Affiliations &amp; Awards</h2>
     <p>
       <a href="/path/to/affiliations.pdf" target="_blank">View My Professional Affiliations and Awards</a>
+    </p>
+    
+    <h2>Online Profiles</h2>
+    <p>
+      <a href="https://orcid.org/0009-0000-4997-6280" target="_blank">ORCID</a> |
+      <a href="https://www.researchgate.net/profile/Jaydee-Dolinar-2?ev=hdr_xprf" target="_blank">ResearchGate</a> |
+      <a href="https://osf.io/sp6vu/" target="_blank">OSF</a>
     </p>
 </div>
