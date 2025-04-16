@@ -141,24 +141,6 @@ permalink: /projects/
     </p>
     <ul>
         <li>
-            <strong>The Uinta Fremont: An Environmental Archaeology Heuristic Perspective</strong>
-            <br><em>Target Journal:</em> Journal of Archaeological Science
-            <br><em>Target Submission Date:</em> August, 2025
-            <br><em>Description:</em> Using novel EAH methodological framework for evaluating the Uinta Fremont of northeastern Utah.
-        </li>
-        <li>
-            <strong>Hot and Cold Niches: Microclimatic Variability and Prehistoric Agricultural Adaptations in the Intermountain West</strong>
-            <br><em>Target Journal:</em> Holocene
-            <br><em>Target Submission Date:</em> August, 2025
-            <br><em>Description:</em> Geocomputational analysis of microclimatic variations and their role in prehistoric agricultural strategies across diverse Intermountain West landforms.
-        </li>
-        <li>
-            <strong>Adaptive Landscapes in Flux: Comparative Application of the EAH-GIS Framework Across Divergent Ecosystems</strong>
-            <br><em>Target Journal:</em> Quaternary International
-            <br><em>Target Submission Date:</em> June, 2025
-            <br><em>Description:</em> Multi-regional application of the EAH-GIS framework comparing evolutionary trajectories between arid, mountainous, and coastal prehistoric adaptations.
-        </li>
-        <li>
             <strong>Convergent Methods for Evolutionary Testing: Integrating Agent-Based Modeling, Bayesian Statistics, and GIS within the Environmental Archaeology Heuristic</strong>
             <br><em>Target Journal:</em> Advances in Archaeological Practice
             <br><em>Target Submission Date:</em> June, 2025
@@ -169,18 +151,6 @@ permalink: /projects/
             <br><em>Target Journal:</em> Journal of Archaeological Method and Theory
             <br><em>Target Submission Date:</em> May, 2025
             <br><em>Description:</em> Development of a predictive model for identifying optimal residential base camp locations based on known specialized task sites, testing the logistical mobility model against archaeological evidence from the Uinta Phase.
-        </li>
-        <li>
-            <strong>Spatial Syntax of Adaptation: GIS-based Workflows for Implementing the Environmental Archaeology Heuristic</strong>
-            <br><em>Target Journal:</em> Journal of Archaeological Science
-            <br><em>Target Submission Date:</em> May, 2025
-            <br><em>Description:</em> Technical implementation guide detailing reproducible GIS methods for quantifying and testing evolutionary hypotheses across EAH's system levels.
-        </li>
-        <li>
-            <strong>Temporal Rhythms in Spatial Adaptations: Time-Series Modeling of Evolutionary Change Within the EAH Framework</strong>
-            <br><em>Target Journal:</em> Archaeological and Anthropological Sciences
-            <br><em>Target Submission Date:</em> April, 2025
-            <br><em>Description:</em> Methodological approach for incorporating temporal dynamics into geospatial modeling of evolutionary processes using time-series analysis and chronological modeling.
         </li>
         <li>
             <strong>Multi-scalar Landscapes: Operationalizing the Environmental Archaeology Heuristic Through GIS</strong>
