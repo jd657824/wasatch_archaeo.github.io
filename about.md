@@ -127,13 +127,6 @@ permalink: /about/
     </p>
     <hr class="subtle-divider">
     
-    <!-- Foundational Concepts & Theoretical Insights -->
-    <div class="blog-entry">
-        <h2>Foundational Concepts &amp; Theoretical Insights</h2>
-        <p class="post-meta"><em>Recommended Start Point. An evolving overview of core ideas and frameworks that underpin my research on human-environment interactions.</em></p>
-        <a href="{{ "/blog-index/" | relative_url }}" class="read-more">Click Here →</a>
-    </div>
-    
     <!-- Blog -->
     <div class="blog-entry">
         <h2>Blog</h2>
