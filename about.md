@@ -166,12 +166,4 @@ permalink: /about/
         </p>
     </div>
     
-    <p>
-        My work is grounded in a commitment to interdisciplinary research and a two-eyed seeing approach that values both traditional ecological knowledge and Western scientific methods. By integrating these perspectives, I aim to uncover deeper insights into how societies have adapted to and shaped their environments over time.
-    </p>
-    
-    <p>
-        Thank you for joining me on this journey of exploration and learning. I invite you to explore the various sections of the blog and engage with the content—whether by reaching out to discuss collaboration opportunities or simply by sharing your thoughts.
-    </p>
-    
 </div>
