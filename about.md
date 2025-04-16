@@ -148,13 +148,6 @@ permalink: /about/
         <a href="{{ "/credentials/" | relative_url }}" class="read-more">Click Here →</a>
     </div>
     
-    <!-- Podcast -->
-    <div class="blog-entry">
-        <h2>Podcast</h2>
-        <p class="post-meta"><em>Episodes featuring updates and discussions on topics related to environmental research and adaptive strategies.</em></p>
-        <a href="{{ "/podcast/" | relative_url }}" class="read-more">Click Here →</a>
-    </div>
-    
     <!-- Donation Section -->
     <div class="donation-section">
         <h2>Support Research</h2>
